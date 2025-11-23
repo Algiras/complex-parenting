@@ -32,6 +32,7 @@ jobs:
       - name: Install TinyTeX for PDF rendering
         run: |
           quarto install tinytex --update-path
+          tlmgr update --self
           tlmgr install amiri
 
       - name: Inject Git SHA
