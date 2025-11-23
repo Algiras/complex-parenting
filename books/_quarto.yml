@@ -12,7 +12,7 @@ book:
   subtitle: "A Journey Through History, Ideology, and the Path to Reform"
   author: "Algimantas Krasauskas"
   date: "today"
-  date: "today"
+
   chapters:
     - 00-copyright.qmd
     - 00-dedication.qmd
