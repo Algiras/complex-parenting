@@ -26,6 +26,18 @@ My goal was not to provide definitive answers, but to equip the reader with the 
 
 If I have failed—if I have misrepresented a tradition, simplified a complexity, or caused unintended harm—I take full responsibility. I invite critique, correction, and conversation.
 
+## A Note on Methodology: The Framework as Lens, Not Law
+
+This book identifies **recurring dynamics** in how extremist movements emerge across diverse contexts. I describe these as "pattern elements"—trauma, theological fracture, purification ideology, mobilization—that tend to appear when civilizations experience existential shocks.
+
+**What this framework is**: A comparative heuristic to reveal structural similarities between seemingly disparate movements (ISIS, the Inquisition, the 969 Movement in Myanmar). It helps us see that extremism is a human problem, not uniquely Islamic.
+
+**What this framework is not**: A predictive model or iron law of history. Not every case follows the same sequence. Christianity's extremism evolved through multiple institutional forces over centuries without a single initiating shock. Wahhabism emerged from internal theological disputes, not external trauma. The "phases" described are **common tendencies**, not strict stages.
+
+Think of this like Kübler-Ross's grief stages—they describe patterns (denial, anger, bargaining) that tend to appear, but not in a rigid order. People skip stages, repeat stages, experience them simultaneously. Similarly, the dynamics described here are **diagnostic tools for pattern recognition**, not a timeline.
+
+The value of this framework is **comparative clarity**, not predictive accuracy. If it helps you understand why a Buddhist monk in Myanmar and a Salafi preacher in Cairo use remarkably similar rhetoric despite vastly different theologies, it has served its purpose.
+
 ## How to Read This Book
 
 This book is structured chronologically and thematically, but it need not be read sequentially. If you are primarily interested in theology, you can jump to Chapters 5-6 and 11. If you seek historical context, Chapters 2-4 provide the arc from the Golden Age to colonial partition. If you want to understand the psychology and economics of extremism, Chapters 13-14 offer frameworks. The comparative chapters (16-18) on Buddhism, Christianity, and Hinduism can stand alone as case studies.
