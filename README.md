@@ -34,7 +34,7 @@ Visit **[algiras.github.io/the-shadow-of-extremism](https://algiras.github.io/th
 
 ## Support This Work
 
-This book is **free** because knowledge about extremism should be accessible to everyone. If you find it valuable, consider supporting future research → **[Support Options](https://algiras.github.io/the-shadow-of-extremism/support.html)**
+This book is **free** because knowledge about extremism should be accessible to everyone. If you find it valuable, consider supporting future research → **[Support Options](https://algiras.github.io/the-shadow-of-extremism/25-support.html)**
 
 ## Project Structure
 
@@ -51,12 +51,6 @@ the-shadow-of-extremism/
 ├── references/         # Research notes and sources
 └── .github/workflows/  # CI/CD (auto PDF/EPUB/DOCX)
 ```
-
-## About
-
-This book traces the **Extremism Cycle** - a 7-phase framework showing how extremism emerges, peaks, and collapses across civilizations.
-
-**Stats**: ~49,000 words | ~180-185 pages | 28 chapters
 
 ## Quick Start
 
@@ -97,4 +91,6 @@ Automatically renders PDF/EPUB/DOCX on every push. Download from Actions tab.
 
 ## License
 
-© 2025 Algimantas Krasauskas. All rights reserved.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+© 2025 Algimantas Krasauskas. Some rights reserved.
