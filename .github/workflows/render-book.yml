@@ -36,7 +36,7 @@ jobs:
       - name: Inject Git SHA
         run: |
           SHA=$(git rev-parse --short HEAD)
-          sed -i "s/git-revision: .*/git-revision: \"$SHA\"/" books/_quarto.yml
+          sed -i "s/git-sha: .*/git-sha: \"$SHA\"/" books/_quarto.yml
 
       - name: Render Book (HTML for GitHub Pages)
         run: |

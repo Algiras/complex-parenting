@@ -5,12 +5,14 @@ project:
     - "*.qmd"
     - "!references/"
 
+git-sha: "latest"  # Will be replaced during build
+
 book:
   title: "The Shadow of Extremism"
   subtitle: "A Journey Through History, Ideology, and the Path to Reform"
   author: "Algimantas Krasauskas"
   date: "today"
-  git-revision: "56db14844192a8bab6b8b6a06290eeddb8703d48"  # Will be replaced during build
+  date: "today"
   chapters:
     - 00-copyright.qmd
     - 00-dedication.qmd
