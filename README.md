@@ -2,6 +2,34 @@
 
 A comprehensive exploration of Islamic extremism through history, ideology, and pathways to reform.
 
+**📖 [Read Online](https://algiras.github.io/the-shadow-of-extremism/)** | **📥 [Download PDF](https://github.com/Algiras/the-shadow-of-extremism/releases)**
+
+## About
+
+This book traces the **Extremism Cycle** - a 7-phase framework showing how extremism emerges, peaks, and collapses across civilizations.
+
+**Stats**: ~49,000 words | ~180-185 pages | 28 chapters
+
+**License**: [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Free to share and adapt with attribution
+
+## Reading Options
+
+### 🌐 Read Online (Recommended)
+Visit **[algiras.github.io/the-shadow-of-extremism](https://algiras.github.io/the-shadow-of-extremism/)** for:
+- **Full-text search** across all chapters
+- **Dark mode** support
+- **Direct chapter links** for citations and sharing
+- **Mobile-friendly** responsive design
+- **No download required**
+
+### 📥 Download
+- **PDF**: [Latest Release](https://github.com/Algiras/the-shadow-of-extremism/releases)
+- **EPUB**: For e-readers (Kindle, Kobo, etc.)
+
+## Support This Work
+
+This book is **free** because knowledge about extremism should be accessible to everyone. If you find it valuable, consider supporting future research → **[Support Options](https://algiras.github.io/the-shadow-of-extremism/support.html)**
+
 ## Project Structure
 
 ```

@@ -43,19 +43,43 @@ book:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: false
+    code-fold: false
+    code-tools: false
+    link-external-newwindow: true
+    link-external-icon: true
+    smooth-scroll: true
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    search: true
+    repo-url: https://github.com/Algiras/the-shadow-of-extremism
+    repo-actions: [edit, issue]
+    sharing: [twitter, facebook, linkedin]
+
   pdf:
     documentclass: scrreprt
     number-sections: false
+    toc: true
+    toc-depth: 3
+    colorlinks: true
     mainfont: "Amiri"
     include-in-header:
       text: |
         \usepackage{fontspec}
         \setmainfont{Amiri}
         \usepackage{geometry}
+
   epub:
+    toc: true
+    toc-depth: 3
+    number-sections: false
     cover-image: cover.png
   docx: default
-
-
-

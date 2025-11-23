@@ -1,9 +1,20 @@
-name: Render and Release Book
+name: Render and Deploy Book
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   render-book:
@@ -22,6 +33,11 @@ jobs:
         run: |
           quarto install tinytex --update-path
 
+      - name: Render Book (HTML for GitHub Pages)
+        run: |
+          cd books
+          quarto render --to html
+
       - name: Render Book (PDF)
         run: |
           cd books
@@ -31,11 +47,6 @@ jobs:
         run: |
           cd books
           quarto render --to epub
-
-      - name: Render Book (DOCX)
-        run: |
-          cd books
-          quarto render --to docx
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
@@ -49,11 +60,17 @@ jobs:
           name: book-epub
           path: books/_output/*.epub
 
-      - name: Upload DOCX artifact
-        uses: actions/upload-artifact@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload HTML to Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: book-docx
-          path: books/_output/*.docx
+          path: books/_output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Create Release (on tag)
         if: startsWith(github.ref, 'refs/tags/')
@@ -62,6 +79,5 @@ jobs:
           files: |
             books/_output/*.pdf
             books/_output/*.epub
-            books/_output/*.docx
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

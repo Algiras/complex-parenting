@@ -1,0 +1,45 @@
+/* Custom styles for The Shadow of Extremism */
+
+/* Improve readability */
+body {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* Callout styling */
+.callout-note {
+  border-left: 4px solid #0d6efd;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.callout-note .callout-header {
+  font-weight: bold;
+  color: #0d6efd;
+  margin-bottom: 0.5rem;
+}
+
+/* Key Takeaways styling */
+h2:contains("Key Takeaways") {
+  border-bottom: 3px solid #0d6efd;
+  padding-bottom: 0.5rem;
+}
+
+/* Chapter links */
+.sidebar nav a {
+  line-height: 1.6;
+}
+
+/* Print-friendly */
+@media print {
+  .sidebar, .navbar, .page-navigation {
+    display: none;
+  }
+}
+
+/* Dark mode adjustments */
+body.quarto-dark .callout-note {
+  background-color: #1a1d20;
+  border-left-color: #4a9eff;
+}
