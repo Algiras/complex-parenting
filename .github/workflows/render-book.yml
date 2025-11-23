@@ -35,6 +35,11 @@ jobs:
           tlmgr update --self
           tlmgr install amiri
 
+      - name: Lint Markdown
+        run: |
+          npm install -g markdownlint-cli
+          markdownlint books/*.qmd --config .markdownlint.json || echo "⚠️  Linting warnings found but continuing build"
+
       - name: Inject Git SHA
         run: |
           SHA=$(git rev-parse --short HEAD)
