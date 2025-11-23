@@ -38,6 +38,7 @@ While we focus on religious extremism, a new secular extremism is rising: the **
 ## Drone Swarms: The Poor Man's Air Force
 
 The era of the suicide bomber is ending. The era of the suicide drone is beginning.
+
 *   **The Tech**: Commercial drones are cheap ($500) and easy to modify.
 *   **The Tactic**: In 2017, ISIS used modified DJI Phantoms to drop grenades on Iraqi troops. In the future, we will see **Swarms**—hundreds of AI-coordinated drones attacking a target simultaneously.
 *   **The Defense Gap**: Shooting down one drone is easy. Shooting down 500 is impossible with current conventional weapons.
@@ -45,6 +46,7 @@ The era of the suicide bomber is ending. The era of the suicide drone is beginni
 ## The Algorithmic Amplification of "Lone Wolves"
 
 The era of the "Group" is ending. The era of the "Stochastic Terrorist" is beginning.
+
 *   **Stochastic Terrorism**: The use of mass media to provoke random acts of violence by unstable individuals. The leader doesn't give an order; he just turns up the heat.
 *   **The AI Echo Chamber**: As AI algorithms get better at predicting our desires, they will feed potential extremists a perfectly tailored diet of rage. The "Lone Wolf" will feel like he is part of a massive movement, even if he never meets another human being.
 

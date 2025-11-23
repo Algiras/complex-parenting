@@ -38,17 +38,20 @@ The Singapore model is unique because it treats radicalization as a **community 
 
 #### 1. Theological Correction (The Narrative)
 Detainees meet regularly with RRG counselors—respected Islamic scholars who volunteer their time.
+
 *   **The Method**: They don't just lecture; they debate. They use the detainee's own texts to show contradictions.
 *   **The Goal**: To replace the "Cut-and-Paste" theology of ISIS with a coherent, contextual understanding of Islam.
 
 #### 2. Social Support (The Needs)
 The **Inter-Agency Aftercare Group (ACG)** ensures that the detainee's family is not punished for the sins of the son.
+
 *   **Financial Aid**: If the detainee was the breadwinner, the state provides financial support to the family to prevent resentment.
 *   **Education**: The children of detainees are given tuition grants to ensure they stay in school and don't drift into extremism.
 *   **Employment**: Upon release, the ACG helps the individual find a job. This is critical: a man with a job has dignity; a man without one has grievances.
 
 #### 3. Community Engagement (The Network)
 The RRG runs a massive public outreach campaign.
+
 *   **Helplines**: A dedicated hotline for parents to call if they suspect their child is radicalizing.
 *   **Mosque Tours**: Open days for non-Muslims to visit mosques, breaking down the "Us vs. Them" barrier.
 
@@ -60,6 +63,7 @@ In Aarhus, Denmark, the police took a radically different approach. When young m
 
 ### The "Aarhus Protocol"
 The logic was simple: if you treat returnees as monsters, they will become monsters. If you treat them as wayward sons, they might come home.
+
 *   **The Offer**: "Come home, and we will help you." No prison (unless they committed war crimes), but help with housing, education, and medical care for wounds.
 *   **The Mentors**: Each returnee is assigned a mentor—often a "formers" (former extremist) who can relate to their experience.
 *   **The Controversy**: Critics called it "Hug a Terrorist." But the results spoke for themselves. The number of foreign fighters from Aarhus dropped from 30 in 2013 to 1 in 2014.
@@ -70,6 +74,7 @@ In Germany, a different challenge exists: Neo-Nazi extremism. **EXIT-Deutschland
 
 ### The "Trojan T-Shirt" Operation
 In 2011, EXIT pulled off a legendary stunt. They donated 250 "Hardcore Rebel" t-shirts to a Neo-Nazi rock festival.
+
 *   **The Trick**: The shirts featured a skull and nationalist slogans. But after one wash, the top layer of ink dissolved.
 *   **The Reveal**: The new text read: *"If your t-shirt can do it, so can you. We will help you break free from right-wing extremism. EXIT-Deutschland."*
 *   **The Impact**: The hotline was flooded with calls. It proved that humor and creativity can breach the walls of an echo chamber.
@@ -77,6 +82,7 @@ In 2011, EXIT pulled off a legendary stunt. They donated 250 "Hardcore Rebel" t-
 ## The Economics of Hate: Why Jobs Matter
 
 We cannot talk about de-radicalization without talking about economics. In many parts of the world, extremism is a job application.
+
 *   **The Somalia Case**: Al-Shabaab pays its fighters $50 a month. In a country with 70% youth unemployment, that is a fortune. Many "terrorists" are simply mercenaries of necessity.
 *   **The Solution**: Vocational training is counter-terrorism. Programs that provide micro-loans or skills training (welding, coding, agriculture) drain the swamp of recruits.
 
@@ -85,16 +91,19 @@ We cannot talk about de-radicalization without talking about economics. In many 
 Radicalization doesn't happen overnight. It is a process. For parents and teachers, recognizing the early signs can save a life.
 
 ### Phase 1: The Grievance (The "Why")
+
 *   **Sudden Victimhood**: The child starts talking obsessively about how "we" (Muslims, Whites, etc.) are being persecuted.
 *   **Political Obsession**: A sudden, intense focus on geopolitical conflicts (e.g., Gaza, Kashmir, Great Replacement Theory) to the exclusion of hobbies.
 *   **Moral Outrage**: A shift from "This is wrong" to "This is evil/demonic."
 
 ### Phase 2: The Isolation (The "Who")
+
 *   **Cutting Ties**: Dropping old friends who "don't understand."
 *   **New "Brothers"**: Spending hours online with a new, unseen community.
 *   **Secretiveness**: Switching screens when you walk in; using encrypted apps (Telegram, Signal).
 
 ### Phase 3: The Hardening (The "How")
+
 *   **Binary Thinking**: Everything is Black/White, Halal/Haram, Us/Them. No nuance allowed.
 *   **Dehumanization**: Using slurs or animalistic terms for opponents (cockroaches, pigs, kuffar).
 *   **Justification of Violence**: "I don't like violence, *but*..." (The "but" is the danger zone).
@@ -113,16 +122,19 @@ Since most radicalization happens online, digital hygiene is a critical defense.
 
 ### 1. The Algorithm Audit
 Sit down with your child and look at their "For You" page on TikTok or YouTube.
+
 *   **The Test**: If you see 3+ videos in a row about "The Matrix," "The West is falling," or "True Islam," the algorithm has them in a funnel.
 *   **The Fix**: Actively search for and "like" counter-content (sports, science, comedy) to reset the feed.
 
 ### 2. The "Source" Game
 Turn fact-checking into a game. When they share a shocking video:
+
 *   **Ask**: "Who made this? What do they sell? Why is there sad music playing?"
 *   **Teach**: Reverse image search. Show them how old footage is often recycled as "new war crimes."
 
 ### 3. The Offline Anchor
 Radicalization thrives in the abstract. It dies in the concrete.
+
 *   **Action**: Get them involved in *local* charity or sports. It's hard to hate "The West" when you are volunteering at a local food bank with nice people from your neighborhood. Real-world complexity kills online simplicity.
 
 ## Conclusion: A Generational Struggle

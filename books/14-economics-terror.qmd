@@ -26,6 +26,7 @@ Terrorism is a business. It requires payroll, logistics, marketing budgets, and 
 ## The ISIS Oil Empire: A State Within a State
 
 When ISIS captured Mosul in 2014, they didn't just steal weapons; they stole oil fields.
+
 *   **The Scale**: At its peak, ISIS controlled 60% of Syria's oil assets. They were producing 30,000 to 80,000 barrels per day.
 *   **The Revenue**: This generated an estimated **$500 million per year**.
 *   **The Market**: Who bought the oil? Ironically, everyone. They sold it to the Assad regime (their enemy), to Turkish smugglers, and to local rebels. In the chaos of war, commerce trumps ideology.
@@ -35,6 +36,7 @@ When ISIS captured Mosul in 2014, they didn't just steal weapons; they stole oil
 ## The Kidnapping Economy: Al-Qaeda in the Maghreb (AQIM)
 
 While ISIS drilled for oil, Al-Qaeda in North Africa turned to a different commodity: humans.
+
 *   **The Business Model**: AQIM specialized in kidnapping Western tourists and aid workers in the Sahel (Mali, Niger, Algeria).
 *   **The Price List**: A European hostage could fetch €5 million.
 *   **The "Golden Decade"**: Between 2003 and 2013, it is estimated that European governments paid over **$125 million** in ransoms to Al-Qaeda affiliates.
@@ -45,11 +47,13 @@ While ISIS drilled for oil, Al-Qaeda in North Africa turned to a different commo
 As the banking system tightens its dragnet on terror finance (SWIFT monitoring, sanctions), extremists are migrating to the blockchain.
 
 ### Bitcoin and the "Electronic Jihad"
+
 *   **Anonymity**: Cryptocurrency offers a way to move money across borders without passing through the regulated banking system.
 *   **Case Study**: In 2020, the US Justice Department seized millions of dollars in cryptocurrency from accounts linked to Al-Qaeda and ISIS. They found that groups were soliciting donations on social media with QR codes.
 
 ### Privacy Coins: Monero and Zcash
 Bitcoin is traceable (the ledger is public). The new frontier is **Privacy Coins** like Monero, which obfuscate the sender, receiver, and amount.
+
 *   **The Threat**: If terrorists can move millions in Monero, the entire global apparatus of "Counter-Terrorism Financing" (CTF) becomes obsolete.
 
 ## Hawala: The Ancient Network
@@ -57,6 +61,7 @@ Bitcoin is traceable (the ledger is public). The new frontier is **Privacy Coins
 Before Bitcoin, there was **Hawala**. It is an informal value transfer system based on trust (*Amanah*) that predates Western banking by centuries.
 
 ### How It Works (The Mechanics)
+
 1.  **The Sender**: Ahmed in London wants to send £1,000 to his brother in Kabul. He gives the cash to a local Hawala broker (*Hawaladar A*).
 2.  **The Code**: *Hawaladar A* gives Ahmed a code (e.g., "Red Falcon").
 3.  **The Call**: *Hawaladar A* calls his cousin (*Hawaladar B*) in Kabul. "Give Ahmed's brother £1,000 equivalent in Afghanis."
@@ -72,6 +77,7 @@ Before Bitcoin, there was **Hawala**. It is an informal value transfer system ba
 ## Narco-Jihad: The Drug Connection
 
 When ideology meets greed, you get **Narco-Terrorism**.
+
 *   **The Taliban and Opium**: Afghanistan produces 80% of the world's opium. The Taliban taxes the farmers and the smugglers, earning an estimated **$400 million per year**. They claim drugs are *Haram* (forbidden), but argue that selling poison to the *Kuffar* (unbelievers) is a form of Jihad.
 *   **Hezbollah and Captagon**: In Lebanon and Syria, Hezbollah is heavily involved in the production and trafficking of **Captagon**, an amphetamine used by fighters to stay awake and fearless. It has become the "Jihadist Drug of Choice."
 
