@@ -63,6 +63,7 @@ format:
     citations-hover: true
     footnotes-hover: true
     search: true
+    site-url: https://algiras.github.io/the-shadow-of-extremism/
     repo-url: https://github.com/Algiras/the-shadow-of-extremism
     repo-actions: [edit, issue]
     sharing: [twitter, facebook, linkedin]
