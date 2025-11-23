@@ -4,17 +4,17 @@ This book would not exist without the intellectual generosity, patience, and cri
 
 ## Academic Mentors and Reviewers
 
-I am deeply indebted to the scholars who reviewed early drafts and prevented countless errors. Professor [Name], whose expertise in Islamic jurisprudence kept me honest when discussing *fiqh* and *usul al-fiqh*. Dr. [Name], whose work on colonial history shaped my understanding of the Sykes-Picot legacy. [Name], a former analyst at [Institution], who provided invaluable insight into the operational mechanics of terrorist organizations.
+I am deeply indebted to the scholars who reviewed early drafts and prevented countless errors—experts in Islamic jurisprudence who kept me honest when discussing *fiqh* and *usul al-fiqh*, historians of colonialism who shaped my understanding of the Sykes-Picot legacy, and former intelligence analysts who provided invaluable insight into the operational mechanics of terrorist organizations.
 
 Special thanks to the anonymous peer reviewers who challenged my framing, pointed out blind spots, and forced me to sharpen my arguments. Your critical eye made this a far better book.
 
 ## Research Assistance
 
-My gratitude to the archivists and librarians at [Institution/Library] who helped me navigate Arabic-language primary sources and historical documents. To [Translator Name], who assisted with translations from classical Arabic and ensured I did not misrepresent textual nuances. To the researchers at the [Counter-Terrorism Archive/Dataset], whose meticulous documentation of extremist propaganda made Chapter 9 possible.
+My gratitude to the archivists and librarians who helped me navigate Arabic-language primary sources and historical documents. To those who assisted with translations from classical Arabic and ensured I did not misrepresent textual nuances. To the researchers whose meticulous documentation of extremist propaganda made the analysis in Chapter 9 possible.
 
 ## Voices of Experience
 
-This book was profoundly shaped by conversations with individuals who lived the realities I could only study. To [Name], a former member of [Organization] who shared their story of radicalization and de-radicalization with courage and honesty. To [Name], a survivor of [Conflict], whose testimony reminded me that behind every statistic is a human being. I cannot name many of you for reasons of safety, but your voices are woven throughout this text.
+This book was profoundly shaped by conversations with individuals who lived the realities I could only study—former members of extremist organizations who shared their stories of radicalization and de-radicalization with courage and honesty, and survivors of conflict whose testimonies reminded me that behind every statistic is a human being. I cannot name many of you for reasons of safety, but your voices are woven throughout this text.
 
 ## Family and Friends
 
@@ -22,15 +22,15 @@ To my family, who endured five years of dinner conversations about jihad, coloni
 
 To my mother, a historian whose rigorous approach to primary sources and distrust of grand narratives shaped my methodology more than any graduate seminar. You taught me that history is not about heroes and villains, but about understanding why people made the choices they did with the information they had. That lesson is woven through every chapter.
 
-To my parents, who taught me that curiosity is a virtue and that the hardest questions are the ones most worth asking. To [Friend Name], who kept me grounded when I disappeared into research rabbit holes for months at a time.
+To my parents, who taught me that curiosity is a virtue and that the hardest questions are the ones most worth asking.
 
 ## Community Feedback
 
-To the readers of early drafts who provided feedback through [Forum/Platform]—your questions, corrections, and provocations made this book sharper and more accessible. To the educators who pilot-tested chapters in their classrooms and reported back on what resonated and what confused. To the Muslim readers who generously fact-checked my representations of Islamic theology and history, saving me from embarrassing errors.
+To the readers of early drafts who provided feedback online—your questions, corrections, and provocations made this book sharper and more accessible. To the educators who tested chapters in their classrooms and reported back on what resonated and what confused. To the Muslim readers who generously fact-checked my representations of Islamic theology and history, saving me from embarrassing errors.
 
 ## Technical Support
 
-To the open-source community behind Quarto, which made it possible to publish this book freely online. To [Designer Name], who designed the cover with elegant restraint. To the GitHub Actions workflow that automated the build process, allowing me to focus on content rather than tooling.
+To the open-source community behind Quarto, which made it possible to publish this book freely online. To the developers of GitHub Actions whose automation allowed me to focus on content rather than deployment infrastructure.
 
 To everyone who asked, "How's the book coming?" even when I had nothing to report—your interest sustained me.
 
