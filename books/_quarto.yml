@@ -10,7 +10,7 @@ book:
   subtitle: "A Journey Through History, Ideology, and the Path to Reform"
   author: "Algimantas Krasauskas"
   date: "today"
-  git-sha: "latest"  # Will be replaced during build
+  git-revision: "56db14844192a8bab6b8b6a06290eeddb8703d48"  # Will be replaced during build
   chapters:
     - 00-copyright.qmd
     - 00-dedication.qmd
