@@ -69,6 +69,8 @@ While the Kharijites invented Takfir, another medieval sect invented the tactic 
 
 Following the turbulent Umayyad dynasty, the **Abbasid Caliphate** (est. 750 CE) ushered in the Islamic Golden Age. Baghdad became the intellectual capital of the world. The **House of Wisdom** (*Bayt al-Hikmah*) was established, where scholars of all faiths—Muslim, Christian, Jewish, Hindu—gathered to translate the works of Aristotle, Plato, Galen, and Ptolemy into Arabic.
 
+**A Nuance on "Golden Age" Tolerance**: This intellectual flourishing occurred within a hierarchical system where non-Muslims (*dhimmis*) were protected but subordinate citizens, subject to the *jizya* tax and restricted from full political participation. The "tolerance" of this era was not modern egalitarianism, but rather a pragmatic, stratified pluralism that valued knowledge production across religious boundaries.
+
 This era saw a profound synthesis of faith and reason.
 
 *   **The Mutazila**: This theological school championed rationalism. They argued that the Quran was created (not eternal) and that God was bound by justice. They believed human reason was sufficient to distinguish right from wrong.
@@ -103,13 +105,15 @@ It is in this shift—from the open inquiry of the House of Wisdom to a defensiv
 ::: {.callout-note}
 ## THE PATTERN REPEATS
 
-Christianity followed the same cycle:
+Christianity experienced similar dynamics, though not in a rigid temporal sequence:
 
-- **Phase 1 - Golden Age**: The early Church (1st-3rd century) was pluralistic and persecuted. After Constantine (313 CE), it became the state religion
-- **Phase 2 - The Shock**: The Black Death (1347-1353) killed 1/3 of Europe
-- **Phase 3 - The Crisis**: "Why did God punish us?"
-- **Phase 4 - The Ideology**: The Inquisition (1478-1834) launched to purify Christendom from heretics
-- **Phase 5 - The Radicalization**: Witch hunts, auto-da-fés, forced conversions
+- **Institutional Power**: After Constantine (313 CE), Christianity became the state religion, establishing mechanisms of orthodoxy enforcement
+- **The Medieval Inquisition** (1184-1230s): Institutional machinery to combat heresy (Cathars, Waldensians) emerged *before* the plague
+- **The Black Death Shock** (1347-1353): Killed 1/3 of Europe, triggering existential crisis ("Why did God punish us?")
+- **Mob Radicalization**: Plague-driven anxiety led to witch hunts, pogroms against Jews, and intensified violence
+- **The Spanish Inquisition** (1478-1834): Later institutional persecution driven by Reconquista politics
 
-The cycle is universal.
+**Key Difference**: Unlike Islam's clear post-1258 trajectory, Christianity's extremism evolved through multiple institutional and social forces over centuries, not a single shock-response pattern.
+
+The universal insight: Civilizational trauma + theological certainty = fertile ground for violence.
 :::

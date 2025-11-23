@@ -1,6 +1,6 @@
 # The Economics of Terror
 
-**9/11 cost Al-Qaeda $500,000. America's response cost $7 trillion. Return on investment: 1,400,000,000%.**
+**9/11 cost Al-Qaeda $500,000. America's response cost $7 trillion. Asymmetric cost ratio: 14,000,000:1.**^[Economic precision note: While often described as "ROI" in popular discourse, this is technically an *asymmetric cost ratio* or *economic damage multiplier*—Al-Qaeda did not "gain" $7 trillion as profit, but rather destroyed that amount of adversary value. Bin Laden explicitly called this strategy "bleeding America to the point of bankruptcy."]
 
 ::: {.callout-note}
 ## Key Takeaways
