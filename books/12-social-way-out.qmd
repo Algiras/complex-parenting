@@ -4,21 +4,6 @@ The most successful de-radicalization program in history was run by... Singapore
 
 While Western nations struggle with recidivism, this small island nation has achieved a remarkable success rate by treating radicalization not as a crime, but as a virus. Theology is necessary, but not sufficient. De-radicalization is not just a debate in a classroom; it is a social, psychological, and political process.
 
-::: {.callout-note}
-## Key Takeaways
-
-**The Big Idea**: De-radicalization requires addressing the "Three Pillars": **Needs** (significance), **Narratives** (ideology), and **Networks** (social belonging).
-
-**Key Insights**:
-- **Singapore's Model** works because it involves the family, community, and economic support.
-- **The "Aarhus Protocol"** (Denmark) proved that "hugging a terrorist" (mentorship) works better than prison for returnees.
-- **Vocational Training** is counter-terrorism; a job provides the dignity that extremism promises but cannot deliver.
-
-**[DYNAMIC CONNECTION]**: De-radicalization is about **Reversing the Mechanism**—breaking the isolation and providing a new path to significance.
-
-**Counterintuitive Insight**: The most effective de-radicalization tool isn't a theological debate—it's a job and a mentor.
-:::
-
 ## The Science of De-Radicalization: Kruglanski's Three Pillars
 
 Why do some de-radicalization programs succeed while others fail? Psychologist **Arie Kruglanski's** "Three Pillars of Radicalization" framework provides the answer. Radicalization occurs when three factors align:
@@ -142,3 +127,19 @@ Radicalization thrives in the abstract. It dies in the concrete.
 There is no silver bullet. De-radicalization is a slow, patient, generational effort. It requires theological reformation, social reintegration, political reform, and economic opportunity. But above all, it requires hope—the belief that a better future is possible within the framework of faith, not in opposition to it.
 
 The science is clear: address the **needs**, counter the **narratives**, and disrupt the **networks**. Programs that do all three succeed. Those that don't, fail.
+
+---
+
+## Key Takeaways
+
+**[THE BIG IDEA]**:: De-radicalization works not through theological refutation, but through providing alternative paths to identity, belonging, and significance.
+
+**[WHAT WE LEARNED]**::
+- Denmark's Aarhus Model uses mentorship, education, and community reintegration instead of prison
+- Germany's EXIT program uses psychological insight (cognitive dissonance, identity fusion) to help neo-Nazis leave
+- Singapore's RRG model combines religious counseling with family therapy and vocational training
+- The "Trojan T-Shirt" proves that empathy, not condemnation, is the key to exit
+
+**[DYNAMIC CONNECTION]**:: De-radicalization is about **Reversing the Mechanism** (Dynamic 4)—breaking the isolation and providing a new path to significance.
+
+**[COUNTERINTUITIVE INSIGHT]**:: The most effective de-radicalizers are former extremists, not scholars—because they understand the emotional journey, not just the ideology. You can't logic someone out of a position they didn't logic themselves into.

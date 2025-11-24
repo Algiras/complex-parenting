@@ -4,21 +4,6 @@ The worst massacre of Jews in the Middle Ages wasn't in Christian Europe—it wa
 
 This uncomfortable fact challenges the popular narrative of a utopian "Golden Age" just as much as the Treaty of Najran challenges the narrative of eternal Islamic hostility. The relationship between Islam and its Abrahamic siblings is not a monologue of conflict, but a complex dialogue of shared prophecy and political negotiation. To understand the modern fractures, we must first examine the foundational bedrock of these relations.
 
-::: {.callout-note}
-## Key Takeaways
-
-**The Big Idea**: Islamic history contains both the blueprint for pluralism (Medina) and the precedent for persecution (Almohad), and modern extremists selectively weaponize the latter while ignoring the former.
-
-**Key Insights**:
-- The **Constitution of Medina** created a political union based on social contract, not religious identity.
-- **La Convivencia** in Spain was real but fragile; it produced the greatest Jewish philosopher (Maimonides) but ended in forced conversion.
-- The **Pact of Umar** established the *dhimmi* status: protection in exchange for subordination.
-
-**Pattern Connection**: The shift from the tolerant Umayyads to the fanatical Almohads illustrates the **Purification dynamic**—one of the recurring themes in extremist movements.
-
-**Counterintuitive Insight**: The "Golden Age" of Jewish philosophy happened *in Arabic* under Muslim rule, not in Hebrew under Christian rule.
-:::
-
 ## The Constitution of Medina: A Blueprint for Pluralism
 
 When Prophet Muhammad migrated to Medina in 622 CE, he did not establish a theocracy, but a confederation. The **Constitution of Medina** (*Sahifat al-Madinah*) was a revolutionary document that integrated the various tribes of the oasis—including Jewish clans, pagan tribes, and the Muslim migrants—into a single political unit.
@@ -127,3 +112,19 @@ Whether it is Baruch Goldstein in Hebron, Yigal Amir in Tel Aviv, or Hilltop You
 4.  **Martyrdom**: Perpetrators are venerated.
 
 The Abrahamic Family is broken by the same virus, just in different dialects.
+
+---
+
+## Key Takeaways
+
+**[THE BIG IDEA]**:: Islamic history contains both the blueprint for pluralism (Medina) and the precedent for persecution (Almohad), and modern extremists selectively weaponize the latter while ignoring the former.
+
+**[WHAT WE LEARNED]**::
+- The **Constitution of Medina** created a political union based on social contract, not religious identity
+- **La Convivencia** in Spain was real but fragile; it produced the greatest Jewish philosopher (Maimonides) but ended in forced conversion
+- The **Pact of Umar** established the *dhimmi* status: protection in exchange for subordination
+- The shift from tolerant Umayyads to fanatical Almohads illustrates the Purification dynamic
+
+**[DYNAMIC CONNECTION]**:: This chapter shows the historical baseline for Islamic pluralism - proving that coexistence is not foreign to the tradition, but has been repeatedly abandoned when political conditions changed.
+
+**[COUNTERINTUITIVE INSIGHT]**:: The "Golden Age" of Jewish philosophy happened *in Arabic* under Muslim rule, not in Hebrew under Christian rule—the greatest Jewish thinker (Maimonides) wrote his masterpiece in the language of Islam.

@@ -2,20 +2,7 @@
 
 **9/11 cost Al-Qaeda $500,000. America's response cost $7 trillion. Asymmetric cost ratio: 14,000,000:1.**^[Economic precision note: While often described as "ROI" in popular discourse, this is technically an *asymmetric cost ratio* or *economic damage multiplier*—Al-Qaeda did not "gain" $7 trillion as profit, but rather destroyed that amount of adversary value. Bin Laden explicitly called this strategy "bleeding America to the point of bankruptcy."]
 
-::: {.callout-note}
-## Key Takeaways
 
-**The Big Idea**: Terrorism is an asymmetrically profitable business where the goal is not to win the war, but to bankrupt the enemy.
-
-**Key Insights**:
-- **ISIS** was an oil company with a flag, generating $500M/year.
-- **Al-Qaeda in the Maghreb** became a kidnapping cartel, earning millions from European ransoms.
-- **Bitcoin** and **Hawala** allow terror finance to bypass global banking sanctions.
-
-**[DYNAMIC CONNECTION]**: The **Entropy of Violence** (Dynamic 5) is often funded by crime (drugs, kidnapping) disguised as Jihad.
-
-**Counterintuitive Insight**: The terrorist does not need to destroy your army; he just needs to make the war too expensive for you to fight.
-:::
 
 This is not hyperbole. The entire "War on Terror"—Afghanistan, Iraq, homeland security budgets, veteran care—has cost the United States more than **7 trillion dollars**, according to Brown University's Costs of War Project. The 19 hijackers who executed the attacks spent roughly half a million on flight training, plane tickets, and box cutters.
 
@@ -94,3 +81,19 @@ The most terrifying economic reality of terrorism is its cheapness.
 | **Nice Truck Attack (2016)** | ~$2,000 (Truck rental) | ~$50 Million | 2,500,000% |
 
 **The Conclusion**: We are spending billions to stop attacks that cost pennies. This economic asymmetry is unsustainable. The terrorist does not need to win the war; he just needs to make the war too expensive for us to fight.
+
+---
+
+## Key Takeaways
+
+**[THE BIG IDEA]**:: Terrorism is financially irrational for the perpetrators but economically strategic—it destroys more value (provokes $7 trillion wars) than it costs ($500k for 9/11). The asymmetry is the point.
+
+**[WHAT WE LEARNED]**::
+- The **14M:1 asymmetry**: 9/11 cost Al-Qaeda $500,000 but triggered a $7 trillion US response
+- **Funding sources**: Oil states (Qatar, Kuwait) provide "private donations"; ransoms fund AQIM; ISIS sold oil, antiquities, and slaves
+- **Financial disruption works**: Treasury sanctions froze $32 million in Al-Qaeda assets post-9/11, forcing groups to decentralize
+- Bin Laden's strategy was *economic bankrupt*, not military defeat—endless war as financial weapon
+
+**[DYNAMIC CONNECTION]**:: This shows **Dynamic 5: The Entropy of Violence** becoming financially self-sustaining—terror groups operate like criminal enterprises once ideology gives permission.
+
+**[COUNTERINTUITIVE INSIGHT]**:: Bin Laden's strategy was *economic*, not military—he wanted to bankrupt America via endless war. The War on Terror cost $7 trillion while the Taliban governed Afghanistan with $80 million/year. He won the spreadsheet war.
