@@ -24,7 +24,7 @@ When the Crusaders finally breached the walls of Jerusalem on July 15, 1099, the
 
 *   **The Massacre**: Unlike previous conquests where cities were spared for tribute, the Crusaders unleashed a total slaughter. Muslim chroniclers like **Ibn al-Qalanisi** and **Ibn al-Athir** describe a scene of horror.
 
-*   **The Temple of Solomon (Al-Aqsa)**: Thousands of Muslims sought refuge in the Al-Aqsa mosque. The Crusaders entered and slaughtered them all. The chronicler **Fulcher of Chartres** famously wrote: *"In this temple 10,000 were killed. Indeed, if you had been there you would have seen our feet colored to our ankles with the blood of the slain."*
+*   **The Temple of Solomon (Al-Aqsa)**: Thousands of Muslims sought refuge in the Al-Aqsa mosque. The Crusaders entered and slaughtered them all. The chronicler **Fulcher of Chartres** famously wrote: *"In this temple 10,000 were killed. Indeed, if you had been there you would have seen our feet colored to our ankles with the blood of the slain."* While modern historians view this "ankle-deep blood" as a stylized biblical allusion (referencing Revelation 14:20) rather than a literal fact, the memory of this slaughter became the foundational trauma of the Islamic relationship with the West.
 
 *   **The Synagogue**: The Jewish defenders of the city gathered in their synagogue. The Crusaders locked the doors and burned them alive.
 
@@ -101,7 +101,9 @@ He declared that Mardin was neither *Dar al-Islam* (Abode of Islam) nor *Dar al-
 
 This was the theological breakthrough that extremists had been waiting for. Ibn Taymiyyah himself was nuanced—he specified that ordinary Muslims living in such lands should not be harmed, and he emphasized careful discrimination between the unjust rulers and the innocent population.
 
-But modern extremists read only the second part. They interpret the fatwa as: **Any Muslim ruler who does not govern by Sharia is an apostate, and Jihad against him is obligatory.**^[Michot, Yahya. *Ibn Taymiyyah: Muslims under Non-Muslim Rule*. Interface Publications, 2006. Michot analyzes the context and modern misuse of this fatwa.]
+But modern extremists read only the second part. They interpret the fatwa as: **Any Muslim ruler who does not govern by Sharia is an apostate, and Jihad against him is obligatory.**
+
+> **[THEOLOGICAL NUANCE]**: There is a fierce scholarly debate about a single word in this fatwa. Extremists claim the text says the people of Mardin "should be fought" (*yuqātal*). However, recent manuscript analysis suggests the original text likely said "should be treated" (*yu'āmal*) according to their status. If the latter is true, the entire theological foundation for killing Muslim rulers rests on a medieval typo.^[Michot, Yahya. *Ibn Taymiyyah: Muslims under Non-Muslim Rule*. Interface Publications, 2006. Michot analyzes the context and modern misuse of this fatwa.]
 
 This was the seed of modern Islamist revolution.> **DYNAMIC 2: The Trauma**  
 > *When a civilization is shattered by an external shock, it asks: "Why did God allow this?" The answer often plants the seeds of extremism.*
@@ -119,7 +121,7 @@ Baghdad was the New York, London, and Tokyo of the 13th century combined. It was
 Then came Hulagu Khan.
 
 When the Mongols breached the walls, the destruction was absolute.
-*   **The Library**: The House of Wisdom was destroyed. Legend says the Tigris River ran black with ink from the books thrown into it.
+*   **The Library**: The House of Wisdom was destroyed. Later chroniclers described the Tigris River running **black with ink** from the books thrown into it—a powerful literary metaphor for the "psychological amputation" of the civilization's intellect.
 *   **The Slaughter**: Estimates range from 200,000 to 800,000 dead. The Caliph was rolled in a carpet and trampled to death by horses (to avoid spilling royal blood on the ground).
 *   **The Psychological Shock**: It wasn't just a military defeat; it was a theological impossibility. If Muslims were God's chosen people, how could they be utterly destroyed by pagans?
 
