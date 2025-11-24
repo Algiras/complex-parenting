@@ -1,4 +1,4 @@
-.PHONY: help lint-check scan-chars install install-dev clean test coverage lint format pre-commit-install pre-commit-run
+.PHONY: help lint-check scan-chars install install-dev clean test coverage lint format pre-commit-install pre-commit-run build-html build-pdf build-epub build-docx build-all
 
 help:
 	@echo "Available commands:"
@@ -12,6 +12,11 @@ help:
 	@echo "  make format            - Format code with ruff"
 	@echo "  make pre-commit-install - Install pre-commit hooks"
 	@echo "  make pre-commit-run    - Run pre-commit on all files"
+	@echo "  make build-html        - Render book to HTML"
+	@echo "  make build-pdf         - Render book to PDF"
+	@echo "  make build-epub        - Render book to EPUB"
+	@echo "  make build-docx        - Render book to Word (DOCX)"
+	@echo "  make build-all         - Render book to all formats"
 	@echo "  make clean             - Remove build artifacts and cache files"
 
 install:
@@ -44,6 +49,20 @@ pre-commit-install:
 
 pre-commit-run:
 	pre-commit run --all-files
+
+build-html:
+	cd books && quarto render --to html
+
+build-pdf:
+	cd books && quarto render --to pdf
+
+build-epub:
+	cd books && quarto render --to epub
+
+build-docx:
+	cd books && quarto render --to docx
+
+build-all: build-html build-pdf build-epub build-docx
 
 clean:
 	find . -type d -name "__pycache__" -exec rm -rf {} +
