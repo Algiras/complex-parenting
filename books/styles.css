@@ -5,7 +5,7 @@ body {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 18px;
   line-height: 1.7;
-  color: #2c3e50;
+  /* Removed hardcoded color to allow theme to control it */
 }
 
 /* Callout styling */
@@ -40,7 +40,26 @@ body {
 }
 
 /* Dark mode adjustments */
+body.quarto-dark {
+  color: #dee2e6;
+  /* Light gray text for dark mode */
+}
+
 body.quarto-dark .callout-note {
   background-color: #1a1d20;
   border-left-color: #4a9eff;
+  color: #e9ecef;
+}
+
+body.quarto-dark .callout-note .callout-header {
+  color: #4a9eff;
+}
+
+/* Ensure links are visible in dark mode */
+body.quarto-dark a {
+  color: #6ea8fe;
+}
+
+body.quarto-dark a:hover {
+  color: #9ec5fe;
 }

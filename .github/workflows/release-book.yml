@@ -1,0 +1,65 @@
+name: Build and Release Book Formats
+
+on:
+  release:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  build-formats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 'release'
+
+      - name: Install TinyTeX for PDF rendering
+        run: |
+          quarto install tinytex --update-path
+          tlmgr update --self
+          tlmgr install amiri
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -e .
+
+      - name: Render Book (PDF)
+        run: |
+          cd books
+          quarto render --to pdf
+
+      - name: Render Book (EPUB)
+        run: |
+          cd books
+          quarto render --to epub
+
+      - name: Upload Release Assets
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            books/_output/*.pdf
+            books/_output/*.epub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Artifacts (Manual Run)
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-formats
+          path: |
+            books/_output/*.pdf
+            books/_output/*.epub
