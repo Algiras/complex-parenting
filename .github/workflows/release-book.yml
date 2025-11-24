@@ -4,6 +4,16 @@ on:
   release:
     types: [created]
   workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version number (e.g., v1.0.1)'
+        required: true
+        type: string
+      release_notes:
+        description: 'Release notes (optional)'
+        required: false
+        type: string
+        default: 'New release of The Shadow of Extremism'
 
 jobs:
   build-formats:
@@ -14,6 +24,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for tags
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -70,22 +82,30 @@ jobs:
           echo "EPUB files:"
           find books/_output -name "*.epub" -type f
 
-      - name: Verify files before upload
-        if: github.event_name == 'release'
+      - name: Create Git Tag
+        if: github.event_name == 'workflow_dispatch'
         run: |
-          echo "Checking for PDF and EPUB files..."
-          PDF_COUNT=$(find books/_output -name "*.pdf" -type f | wc -l)
-          EPUB_COUNT=$(find books/_output -name "*.epub" -type f | wc -l)
-          echo "Found $PDF_COUNT PDF file(s)"
-          echo "Found $EPUB_COUNT EPUB file(s)"
-          if [ $PDF_COUNT -eq 0 ] || [ $EPUB_COUNT -eq 0 ]; then
-            echo "ERROR: Missing required files!"
-            echo "Contents of books/_output/:"
-            ls -lah books/_output/
-            exit 1
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag -a "${{ inputs.version }}" -m "Release ${{ inputs.version }}"
+          git push origin "${{ inputs.version }}"
 
-      - name: Upload Release Assets
+      - name: Create GitHub Release
+        if: github.event_name == 'workflow_dispatch'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ inputs.version }}
+          name: Release ${{ inputs.version }}
+          body: ${{ inputs.release_notes }}
+          draft: false
+          prerelease: false
+          files: |
+            books/_output/*.pdf
+            books/_output/*.epub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Assets (Existing Release)
         if: github.event_name == 'release'
         uses: softprops/action-gh-release@v1
         with:
@@ -94,12 +114,3 @@ jobs:
             books/_output/*.epub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Artifacts (Manual Run)
-        if: github.event_name == 'workflow_dispatch'
-        uses: actions/upload-artifact@v4
-        with:
-          name: book-formats
-          path: |
-            books/_output/*.pdf
-            books/_output/*.epub
