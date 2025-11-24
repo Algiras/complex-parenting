@@ -42,12 +42,26 @@ jobs:
           cd books
           quarto render --to pdf
           echo "PDF rendering complete"
+          # Verify PDF was created
+          if [ ! -f "_output/"*.pdf ]; then
+            echo "ERROR: PDF file was not generated!"
+            ls -lah _output/
+            exit 1
+          fi
+          echo "PDF file found: $(ls _output/*.pdf)"
 
       - name: Render Book (EPUB)
         run: |
           cd books
           quarto render --to epub
           echo "EPUB rendering complete"
+          # Verify EPUB was created
+          if [ ! -f "_output/"*.epub ]; then
+            echo "ERROR: EPUB file was not generated!"
+            ls -lah _output/
+            exit 1
+          fi
+          echo "EPUB file found: $(ls _output/*.epub)"
 
       - name: List generated files
         run: |
@@ -58,6 +72,21 @@ jobs:
           echo "EPUB files:"
           find books/_output -name "*.epub" -type f
 
+      - name: Verify files before upload
+        if: github.event_name == 'release'
+        run: |
+          echo "Checking for PDF and EPUB files..."
+          PDF_COUNT=$(find books/_output -name "*.pdf" -type f | wc -l)
+          EPUB_COUNT=$(find books/_output -name "*.epub" -type f | wc -l)
+          echo "Found $PDF_COUNT PDF file(s)"
+          echo "Found $EPUB_COUNT EPUB file(s)"
+          if [ $PDF_COUNT -eq 0 ] || [ $EPUB_COUNT -eq 0 ]; then
+            echo "ERROR: Missing required files!"
+            echo "Contents of books/_output/:"
+            ls -lah books/_output/
+            exit 1
+          fi
+
       - name: Upload Release Assets
         if: github.event_name == 'release'
         uses: softprops/action-gh-release@v1
@@ -65,7 +94,6 @@ jobs:
           files: |
             books/_output/*.pdf
             books/_output/*.epub
-          fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
