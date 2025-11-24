@@ -25,6 +25,8 @@ jobs:
           quarto install tinytex --update-path
           tlmgr update --self
           tlmgr install amiri
+          echo "Verifying Amiri font installation:"
+          tlmgr list --only-installed | grep amiri || echo "Amiri not found, but continuing..."
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,11 +41,22 @@ jobs:
         run: |
           cd books
           quarto render --to pdf
+          echo "PDF rendering complete"
 
       - name: Render Book (EPUB)
         run: |
           cd books
           quarto render --to epub
+          echo "EPUB rendering complete"
+
+      - name: List generated files
+        run: |
+          echo "Contents of books/_output:"
+          ls -lah books/_output/
+          echo "PDF files:"
+          find books/_output -name "*.pdf" -type f
+          echo "EPUB files:"
+          find books/_output -name "*.epub" -type f
 
       - name: Upload Release Assets
         if: github.event_name == 'release'
@@ -52,6 +65,7 @@ jobs:
           files: |
             books/_output/*.pdf
             books/_output/*.epub
+          fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
