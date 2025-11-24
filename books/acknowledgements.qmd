@@ -27,6 +27,20 @@ To my parents, who taught me that curiosity is a virtue and that the hardest que
 
 To the open-source community behind Quarto, which made it possible to publish this book freely online. To the developers of GitHub Actions whose automation allowed me to focus on content rather than deployment infrastructure.
 
+## AI Research Tools
+
+This book was created in partnership with advanced artificial intelligence systems that served as research amplifiers and intellectual sparring partners. Specifically:
+
+**Google Gemini 2.0 Flash Thinking**: For multi-language analysis of Arabic, Turkish, and Latin primary sources; comparative pattern recognition across religions; and structural coherence verification.
+
+**Anthropic Claude**: For theological nuance checking, historical contextualization, and ensuring arguments withstood rigorous counter-examination.
+
+**AI Image Generation Tools**: For creating the sophisticated infographics that visualize the 5 Dynamics framework and historical timeline.
+
+These tools enabled a solo researcher to accomplish what would traditionally require a team of translators, research assistants, and graphic designers. They democratized access to primary sources in languages I don't speak and allowed me to cross-reference thousands of documents in weeks rather than years.
+
+**Critical Note**: While AI systems processed vast amounts of data, every interpretation, judgment, and conclusion in this book reflects human discernment. The AI was the research assistant; I remain the author—and bear full responsibility for any errors.
+
 To everyone who asked, "How's the book coming?" even when I had nothing to report—your interest sustained me.
 
 ---

@@ -26,6 +26,60 @@ My goal was not to provide definitive answers, but to equip the reader with the 
 
 If I have failed—if I have misrepresented a tradition, simplified a complexity, or caused unintended harm—I take full responsibility. I invite critique, correction, and conversation.
 
+## A Note on AI-Assisted Research Methodology
+
+This book represents a pioneering use of artificial intelligence tools in scholarly research—not as a replacement for human analysis, but as an **amplifier of intellectual reach**. I employed multiple Large Language Models (LLMs)—including Google Gemini 2.0 Flash Thinking, Anthropic Claude, and other AI systems—as research assistants throughout this project.
+
+### What AI Tools Enabled
+
+**1. Multi-Language Primary Source Analysis**  
+AI systems helped me access and analyze historical texts in their original languages (classical Arabic, Ottoman Turkish, medieval Latin) that would have required years of language training or expensive translation services. For example:
+- Parsing contested Arabic terms in Ibn Taymiyyah's Mardin Fatwa (*yuqātal* vs. *yu'āmal*)
+- Cross-referencing multiple Arabic chronicles of the Mongol Sack of Baghdad (1258)
+- Analyzing Qutb's *Milestones* (*Ma'alim fi'l-Tariq*) with attention to Arabic theological nuances
+
+**2. Comparative Framework Development**  
+LLMs helped identify structural patterns across disparate movements by processing vast amounts of historical data:
+- Mapping the 5 Dynamics across ISIS, the Inquisition, 969 Movement, and Hindutva
+- Identifying parallel rhetoric in Buddhist, Christian, Hindu, and Islamic extremist propaganda
+- Cross-referencing psychological research (identity fusion, engaged followership) with historical case studies
+
+**3. Visual Communication**  
+AI image generation tools created the infographics throughout this book:
+- The "5 Dynamics Converging Forces" diagram (Ch 19)
+- Historical timeline from Golden Age to Global Jihad (Introduction)
+- State cooption transformation infographic (Introduction)
+
+**4. Structural Refinement**  
+AI systems helped ensure intellectual coherence:
+- Identifying gaps in comparative analysis
+- Flagging logical inconsistencies between chapters
+- Suggesting strategic enhancements (like the "Why This Order?" sidebar in Ch 5)
+
+### What AI Tools Did NOT Do
+
+**Critical Limitations**:
+- AI did **not** formulate the core thesis—the 5 Dynamics framework emerged from my analysis
+- AI did **not** make theological judgments—all interpretations were vetted against primary sources and scholarly consensus
+- AI did **not** write this book—every sentence reflects my voice, argument, and responsibility
+- AI did **not** replace human expertise—all controversial claims were verified with traditional scholarship
+
+### Why This Transparency Matters
+
+**Methodological Honesty**: If AI tools helped me access Arabic sources I couldn't read, readers deserve to know. The quality of output depends on the quality of human prompting, critical evaluation, and contextual understanding.
+
+**Replicability**: Future scholars should be able to use similar methods. This book demonstrates that AI can **democratize research** previously limited to those with multi-decade language training or institutional funding.
+
+**Accountability**: By disclosing AI usage, I take responsibility for any errors in interpretation. The tools are neutral; the judgment is mine.
+
+### The Future of Scholarship
+
+This methodology represents what scholarship could become: **human insight amplified by machine processing power**. I couldn't have written this book in five years without AI assistance—it would have taken fifteen. But the framework, argument, and conclusions remain distinctly human.
+
+AI enabled me to ask: "What does this Arabic chronicle say about trauma?" The answer required human discernment: "Is this source reliable? Does it contradict other evidence? What does it mean?"
+
+**The AI was the telescope. I was the astronomer.**
+
 ## A Note on Methodology: The Framework as Lens, Not Law
 
 This book identifies **recurring dynamics** in how extremist movements emerge across diverse contexts. I describe these as "pattern elements"—trauma, theological fracture, purification ideology, mobilization—that tend to appear when civilizations experience existential shocks.
