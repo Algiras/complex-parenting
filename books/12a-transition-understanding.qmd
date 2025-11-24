@@ -2,7 +2,7 @@
 
 We have traced the historical arc—from the Golden Age through the shocks of the Crusades and Mongols, through colonial betrayal, reactive ideology, and radicalization, culminating in the collapse of utopian experiments. We examined the theological and social pathways out.
 
-But a critical question remains: **Why does this cycle repeat?**
+But a critical question remains: **Why do these dynamics persist?**
 
 Why did Christian Europe follow the same pattern (Black Death → Inquisition)? Why did Germany after WWI (humiliation → Nazism)? Why is Hindu nationalism in India, Buddhist extremism in Myanmar, and Russian Orthodoxy following the exact same script?
 
@@ -10,9 +10,11 @@ The answer is uncomfortable: **This is not a problem with Islam. This is a probl
 
 The next three chapters examine the universal mechanisms—psychological, economic, and technological—that make extremism possible in any society. These are not "Islamic" phenomena. They are **human** phenomena.
 
-- **Chapter 13: The Psychology of Obedience** reveals why ordinary people commit extraordinary evil (Milgram, Zimbardo, Arendt)
-- **Chapter 14: The Economics of Terror** follows the money—how extremism is funded and why it persists
-- **Chapter 15: The Future of Hate** explores the next iteration of the cycle in the age of AI and the Metaverse
+The next section explores the future:
+
+- **Chapter 13: The Psychology of Obedience** examines the internal mechanism of the mind
+- **Chapter 14: The Economics of Terror** examines the financial engine
+- **Chapter 15: The Future of Hate** explores the next evolution of the threat in the age of AI and the Metaverse
 
 By understanding the machine, we can finally break it.
 

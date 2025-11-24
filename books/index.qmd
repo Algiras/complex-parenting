@@ -26,7 +26,7 @@ It is about how a message of spiritual liberation was co-opted to justify empire
 
 Extremists today—whether in Raqqa or Moscow—have weaponized specific texts, historical events, and theological concepts. They have stripped them of context, twisted their meanings, and forged them into ideological weapons to redraw maps and reclaim lost empires.
 
-![The Cycle: How Power Usurps Faith](images/infographic_state_cooption.png){#fig-state-cooption}
+![The Dynamic: How Power Usurps Faith](images/infographic_state_cooption.png){#fig-state-cooption}
 
 ## The Big Idea: Recurring Dynamics of Extremism
 
@@ -34,46 +34,15 @@ Here is the counterintuitive insight that will guide this entire book:
 
 **Extremism is not a disease. It is a symptom. And like all symptoms, it follows recurring patterns.**
 
-Inspired by Ray Dalio's analysis of cycles in *The Changing World Order*, this book identifies **7 recurring dynamics** that appear across extremist movements—from medieval Islam to modern Myanmar. These are not rigid phases that every case must follow in sequence, but rather **pattern elements** that tend to emerge when civilizations experience trauma and theological polarization. Once you see these patterns, you cannot unsee them.
-
-### The 7 Pattern Elements of Extremism
-
-**Phase 1: THE GOLDEN AGE** (Expansion & Pluralism)
-*   **What Happens**: A civilization reaches its creative and economic peak. Diverse voices are tolerated because success breeds confidence.
-*   **Examples**: 
-    - Islamic Golden Age (8th-13th century): Baghdad's House of Wisdom
-    - *La Convivencia* (10th-12th century): Muslims, Jews, Christians in Spain
-    - Pre-1979 Iran: Pluralistic, modernizing society
-
-*   **Key Indicator**: "We are strong enough to be generous."
-
-**Phase 2: THE SHOCK** (External Crisis)
-*   **What Happens**: A sudden, catastrophic defeat or humiliation shatters the civilization's confidence.
-*   **Examples**:
-    - The Mongol Sack of Baghdad (1258): 1 million dead, libraries burned
-    - The Crusader Massacre of Jerusalem (1099): "Blood to the ankles"
-    - The Six-Day War (1967): Arab nationalism crushed in 6 days
-    - Colonial Partition (1920): Sykes-Picot betrayal
-
-*   **Key Indicator**: "How could God let this happen to us?"
-
-**Phase 3: THE CRISIS OF MEANING** (Identity Collapse)
-*   **What Happens**: The old order collapses. Secular solutions are tried and fail spectacularly.
-*   **Examples**:
-    - Abolition of the Caliphate (1924): "The religion is orphaned"
-    - Nasser's Arab Socialism fails (1967): Secular nationalism discredited
-    - Iran's rapid Westernization (1970s): Cultural whiplash
-
-*   **Key Indicator**: "Who are we? What do we stand for?"
-
-**Phase 4: THE REACTIVE IDEOLOGY** (The Answer)
-*   **What Happens**: A puritanical movement emerges, promising to restore glory by returning to an imagined "pure" past.
-*   **Examples**:
-    - Hassan al-Banna founds Muslim Brotherhood (1928)
-    - Sayyid Qutb writes *Milestones* (1964)
 Inspired by systems thinking and historical analysis, this book identifies **5 recurring dynamics** that appear across extremist movements—from medieval Islam to modern Myanmar. These are not rigid phases that every case must follow in sequence, but rather **converging forces** that tend to emerge when civilizations experience trauma and theological polarization.
 
-Once you see these dynamics, you cannot unsee them.
+*   **Dynamic 1: THE MYTH OF PURITY** (The Golden Age)
+*   **Dynamic 2: THE TRAUMA** (The Shock)
+*   **Dynamic 3: THE ABSOLUTE NARRATIVE** (The Answer)
+*   **Dynamic 4: THE MECHANISM OF BELONGING** (Radicalization)
+*   **Dynamic 5: THE ENTROPY OF VIOLENCE** (Collapse & Persistence)
+
+Once you see these dynamics, you cannot unsee them. They explain why a 13th-century Mongol invasion led to the same theological hardening as the 2003 invasion of Iraq. They explain why a Buddhist monk in Myanmar uses the same rhetoric of "purity" as a white nationalist in Charlottesville.
 
 ### The 5 Dynamics of Extremism
 
