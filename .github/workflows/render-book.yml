@@ -35,6 +35,20 @@ jobs:
           tlmgr update --self
           tlmgr install amiri
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -e .
+
+      - name: Validate content with Python scripts
+        run: |
+          make scan-chars || echo "⚠️  Character validation warnings found but continuing build"
+          make lint-check || echo "⚠️  Content validation warnings found but continuing build"
+
       - name: Lint Markdown
         run: |
           npm install -g markdownlint-cli

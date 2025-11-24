@@ -69,14 +69,18 @@ This book represents a pioneering use of **AI-Amplified Scholarship**. It was re
 ## 🏗️ Project Structure
 
 ```
-books/               # Book content (Quarto markdown)
-├── index.qmd       # Introduction
-├── 01-20/          # Main chapters
-├── 21-25/          # Appendices and back matter
-└── _quarto.yml     # Book configuration
-
-.github/workflows/  # CI/CD (automatic builds)
-tools/              # Scripts (audiobook generation, etc.)
+bookie/
+├── pyproject.toml        # Python project configuration (dependencies, scripts)
+├── Makefile              # Task runner for common operations
+├── scripts/              # Utility scripts (lint checking, validation)
+├── audiobook/            # Audiobook generation tools
+├── tools/                # Additional utilities
+├── books/                # Book content (Quarto markdown)
+│   ├── index.qmd         # Introduction
+│   ├── 01-20.qmd         # Main chapters
+│   ├── 21-25.qmd         # Appendices and back matter
+│   └── _quarto.yml       # Book configuration
+└── .github/workflows/    # CI/CD (automatic builds)
 ```
 
 ---
@@ -87,20 +91,45 @@ tools/              # Scripts (audiobook generation, etc.)
 - [Quarto](https://quarto.org/docs/get-started/) (latest version)
 - [TeX Live](https://www.tug.org/texlive/) (for PDF)
 - Amiri font (for Arabic text rendering)
+- Python 3.8+ (for utility scripts)
 
-### Commands
+### Quick Start
+
 ```bash
-# HTML
-quarto render books --to html
+# Install Python dependencies and scripts
+make install
 
-# PDF
-quarto render books --to pdf
+# Run content validation
+make lint-check    # Check markdown formatting
+make scan-chars    # Scan for invalid characters
 
-# EPUB
-quarto render books --to epub
+# Render the book
+cd books
+quarto render --to html    # Generate HTML version
+quarto render --to pdf     # Generate PDF version
+quarto render --to epub    # Generate EPUB version
 
 # Serve locally with live reload
 quarto preview books
+```
+
+### Available Make Commands
+
+```bash
+make help          # Show all available commands
+make install       # Install project in development mode
+make lint-check    # Validate markdown formatting
+make scan-chars    # Scan for invalid characters in content
+make clean         # Remove build artifacts
+```
+
+### Using Python Scripts Directly
+
+After running `make install`, scripts are available as commands:
+
+```bash
+lint-check         # Check markdown formatting in books/
+scan-chars         # Scan for invalid characters
 ```
 
 ---

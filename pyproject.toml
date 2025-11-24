@@ -1,0 +1,83 @@
+[project]
+name = "bookie"
+version = "0.1.0"
+description = "Book content management and validation tools"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "ruff>=0.1.0",
+    "pre-commit>=3.5.0",
+]
+
+[project.scripts]
+# Main utility scripts
+lint-check = "scripts.lint_check:main"
+scan-chars = "scripts.scan_chars:main"
+
+# Audiobook scripts
+generate-audiobook = "audiobook.scripts.generate_audiobook:main"
+prepare-audiobook = "audiobook.scripts.prepare_audiobook:main"
+stitch-audio = "audiobook.scripts.stitch_audio:main"
+
+# Tools
+scrape-resources = "tools.scrape_resources:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["scripts", "audiobook", "audiobook.scripts", "tools"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "--verbose",
+    "--cov=scripts",
+    "--cov-report=term-missing",
+    "--cov-report=html",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
+exclude = [
+    ".git",
+    "__pycache__",
+    ".pytest_cache",
+    ".coverage",
+    "htmlcov",
+    "*.egg-info",
+]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "N",   # pep8-naming
+    "UP",  # pyupgrade
+    "B",   # flake8-bugbear
+    "C4",  # flake8-comprehensions
+    "SIM", # flake8-simplify
+]
+ignore = [
+    "E501",   # Line too long (handled by formatter)
+    "N806",   # Variable in function should be lowercase (allow CONSTANTS)
+    "E741",   # Ambiguous variable name (allow in existing code)
+    "SIM102", # Nested if simplification (allow for readability)
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
