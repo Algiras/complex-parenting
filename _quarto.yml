@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: _output
+  render:
+    - "*.qmd"
+    - "*.md"
+
+book:
+  title: "[New Book Title]"
+  author: "[Author Name]"
+  chapters:
+    - index.qmd
+    - chapters/01-introduction.qmd
+  date: "today"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    toc-depth: 3

@@ -57,11 +57,11 @@ jobs:
       - name: Inject Git SHA
         run: |
           SHA=$(git rev-parse --short HEAD)
-          sed -i "s/git-sha: .*/git-sha: \"$SHA\"/" books/_quarto.yml
+          sed -i "s/git-sha: .*/git-sha: \"$SHA\"/" _quarto.yml
 
       - name: Render Book (HTML for GitHub Pages)
         run: |
-          cd books
+          # cd books (removed)
           quarto render --to html
 
       - name: Setup Pages

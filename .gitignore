@@ -4,10 +4,11 @@
 *.docx
 
 # Quarto
-books/.quarto/
-books/_output/
-books/_site/
-books/_book/
+.quarto/
+/_output/
+_output/
+_site/
+_book/
 _freeze/
 
 # Audiobook outputs
@@ -58,3 +59,6 @@ Thumbs.db
 *.tmp
 *.bak
 thinking/*
+.quarto
+/.quarto/
+**/*.quarto_ipynb
