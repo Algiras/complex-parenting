@@ -10,7 +10,6 @@ book:
   subtitle: "A Guide to Raising Teens with Bipolar and Autism/ADHD"
   author: "Algimantas K."
   date: "today"
-  cover-image: cover.png
   chapters:
     - index.qmd
     - chapters/00-front-matter.qmd
