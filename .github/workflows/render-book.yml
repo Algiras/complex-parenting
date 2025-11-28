@@ -64,6 +64,7 @@ jobs:
           quarto render --to html
           quarto render --to pdf
           quarto render --to epub
+          touch _output/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

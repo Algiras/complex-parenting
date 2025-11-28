@@ -3,6 +3,9 @@
 
 ![Book Cover](cover.png)
 
+[![Read Online](https://img.shields.io/badge/Read-Online-blue?style=for-the-badge&logo=book)](https://algiras.github.io/complex-parenting/)
+[![Download PDF/EPUB](https://img.shields.io/badge/Download-PDF%2FEPUB-orange?style=for-the-badge&logo=github)](https://github.com/Algiras/complex-parenting/releases)
+
 **Author:** Algimantas K.
 
 This repository contains the source code and content for the book *Complex Parenting*, a comprehensive guide for parents navigating the intersection of Bipolar Disorder and Autism/ADHD in teens.
