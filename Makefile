@@ -51,16 +51,16 @@ pre-commit-run:
 	pre-commit run --all-files
 
 build-html:
-	cd books && quarto render --to html
+	quarto render --to html
 
 build-pdf:
-	cd books && quarto render --to pdf
+	quarto render --to pdf
 
 build-epub:
-	cd books && quarto render --to epub
+	quarto render --to epub
 
 build-docx:
-	cd books && quarto render --to docx
+	quarto render --to docx
 
 build-all: build-html build-pdf build-epub build-docx
 

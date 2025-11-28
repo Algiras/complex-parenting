@@ -41,7 +41,7 @@ def check_file(filepath):
 
 
 def main():
-    files = glob.glob("books/*.qmd")
+    files = glob.glob("*.qmd") + glob.glob("chapters/*.qmd")
     all_errors = {}
 
     print(f"Scanning {len(files)} files...")
