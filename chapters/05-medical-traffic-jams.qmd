@@ -1,0 +1,101 @@
+# Medical Traffic Jams
+
+## The Chemistry Set
+
+Treating the "Double Diagnosis" is like trying to drive a car with one foot on the gas and one foot on the brake.
+
+- **The Gas:** Stimulants (Ritalin, Adderall, Vyvanse) for ADHD.
+- **The Brake:** Mood Stabilizers (Lithium, Lamictal, Depakote) and Antipsychotics (Seroquel, Risperdal) for Bipolar.
+- **The Crash:** If you hit the gas before the brakes are working, you crash.
+
+## Case Study: Leo's "Stimulant Trap"
+
+Leo Rivera (16) was struggling in school. He couldn't focus. He was impulsive.
+The doctor prescribed Vyvanse. "It's the gold standard for ADHD," she said.
+And it worked. Leo's grades went up. He was cleaning his room. His parents were thrilled.
+But three months later, the "crash" came.
+Leo started staying up until 3 AM "organizing" his closet. He became irritable, snapping at his little sister. Then came the rage.
+He punched a hole in the wall because he couldn't find his charger. He screamed that his parents were "ruining his life."
+The doctor increased the Vyvanse, thinking the ADHD was "worsening."
+**The Reality:** The stimulant was fueling a manic episode. Leo had underlying Bipolar Disorder, and the Vyvanse was acting like rocket fuel.
+- **The Stat:** Treating ADHD with stimulants *alone* in a Bipolar teen increases the risk of manic induction by **6-7 times**.
+
+## The Medication Breakdown: What You Need to Know
+
+### Mood Stabilizers
+
+#### Lithium (The Gold Standard)
+- **How It Works:** Lithium regulates neurotransmitter release and protects neurons. It's the *only* med proven to reduce suicide risk in Bipolar. Pediatric studies confirm its efficacy in stabilizing acute mania in adolescents [@geller2012].
+- **The Catch:** Narrow therapeutic window. Too little = doesn't work. Too much = toxic.
+- **Blood Tests:** Required every 3-6 months to monitor levels (0.6-1.2 mEq/L is the target).
+- **Side Effects:** Thirst, frequent urination, tremor, weight gain, acne.
+- **The Autistic Factor:** Many autistic teens hate the "brain fog" feeling. They describe it as "dulling my spark."
+- **What to Do:** Start at a LOW dose (300mg). Titrate slowly. Negotiate with the teen: "If this makes you feel like a zombie, we'll try something else."
+
+#### Lamictal (Lamotrigine)
+- **How It Works:** Stabilizes glutamate (the "gas pedal" neurotransmitter).
+- **The Upside:** Minimal weight gain, no "dulling" effect. Teens tolerate it better.
+- **The Danger:** The "Rash." In rare cases (0.1%), Lamictal causes Stevens-Johnson Syndrome, a life-threatening rash.
+- **The Rule:** Titrate SLOW. Start at 25mg and increase every 2 weeks.
+- **What to Watch:** Any rash = STOP immediately and call the doctor.
+
+**Lamictal Titration Schedule (8-Week Ramp):**
+
+![Lamictal Titration Schedule](images/lamictal_titration_steps_1764234806208.png)
+
+**Critical:** If a rash appears at ANY point, stop immediately. The slower you titrate, the lower the rash risk.
+
+
+#### Depakote (Valproic Acid)
+- **How It Works:** Regulates GABA (the "brake" neurotransmitter).
+- **The Upside:** Fast-acting. Works well for rage.
+- **The Downside:** Weight gain (10-20 lbs common), hair loss, liver toxicity.
+- **The Autistic Factor:** Weight gain can trigger body image issues, especially in teen girls.
+
+### Antipsychotics (Atypical)
+
+#### Seroquel (Quetiapine)
+- **How It Works:** Blocks dopamine receptors. Stops the "power surge" of mania.
+- **The Upside:** Sedating. Great for sleep and acute mania.
+- **The Downside:** Weight gain, metabolic syndrome (diabetes risk).
+- **The Dose:** Low dose (25-100mg) for sleep. High dose (300-800mg) for psychosis.
+
+#### Risperdal (Risperidone)
+- **The Danger:** Can cause permanent movement disorders (Tardive Dyskinesia) and breast development in boys (gynecomastia).
+- **When to Use:** Only for acute psychosis. Get off ASAP.
+
+### Stimulants (The Double-Edged Sword)
+
+#### The Sequencing Rule
+1.  **Stabilize Mood First:** 3-6 months on a mood stabilizer with NO cycling.
+2.  **Add Stimulant Cautiously:** Start with a non-stimulant (Guanfacine, Strattera) first. If that fails, try a LOW-dose stimulant (5mg Adderall).
+3.  **Watch Like a Hawk:** Any sign of mania (insomnia, rage, grandiosity) = STOP immediately.
+
+## Sensory Side Effects: The Autistic Factor
+
+Autistic teens are often "metabolically sensitive." A dose that is standard for a neurotypical kid might floor an autistic kid.
+- **Texture/Taste:** Many autistic teens cannot swallow pills. Liquid formulations or sprinkles are essential.
+- **Interoception:** They may feel "weird" or "buzzy" on meds but lack the words to describe it.
+- **The Refusal:** When Alex refuses his meds, it's not "defiance." It's because the texture makes him gag, or the "buzzy" feeling triggers his sensory overload.
+
+## When Medications Fail
+
+This is the hardest truth: Sometimes, meds don't work.
+- **Treatment-Resistant Bipolar:** 20-30% of people with Bipolar don't respond to standard meds.
+- **The Options:**
+    *   **Ketamine/Esketamine (Spravato):** FDA-approved for treatment-resistant depression. Works in 70% of cases where nothing else did.
+    *   **ECT (Electroconvulsive Therapy):** The most effective treatment for severe, treatment-resistant Bipolar. Modern ECT is safe and painless. It is NOT "One Flew Over the Cuckoo's Nest."
+- **The Conversation:** "We've tried 4 meds and you're still suffering. I know ECT sounds scary, but it has an 80% success rate. Can we research it together?"
+
+## Protocol: The "Start Low, Go Slow" Medication Log
+
+When starting a new med, track these 3 things daily:
+
+1.  **Target Symptom:** (e.g., "Focus," "Rage") - Rate 1-10.
+2.  **Side Effect:** (e.g., "Stomach ache," "Jittery") - Rate 1-10.
+3.  **The "Vibe":** Does the child seem "dull," "sparky," or "just right"?
+
+**Golden Rule:** Change only *one* variable at a time. Never start two meds in the same week.
+**The Sequencing Rule:**
+1.  **Stabilize Mood First:** Use Lithium, Lamictal, or an Atypical Antipsychotic to stop the cycling.
+2.  **Treat Focus Second:** Only *after* the mood is stable for 3 months, introduce a low-dose stimulant (or non-stimulant like Guanfacine) and watch like a hawk for mania.

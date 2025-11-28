@@ -1,2 +1,4 @@
 elevenlabs
 python-dotenv
+kokoro-onnx
+soundfile

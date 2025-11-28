@@ -1,0 +1,11 @@
+# About the Author {.unnumbered}
+
+**Algimantas K.** is an Open Source Knowledge Developer specializing in the intersection of pediatric mental health and neurodivergence.
+
+Frustrated by the "siloed" nature of modern psychiatry—where one doctor treats the mood, another treats the focus, and the school treats the behavior—he applies the principles of open source development to the complex system of family mental health: collaboration, transparency, and iterative improvement.
+
+He views the "Double Diagnosis" not just as a medical condition, but as a complex system architecture problem that requires a full-stack solution: biological, psychological, and social. He synthesizes research from clinical neuroscience, family systems theory, and lived experience to create a unified framework for stability.
+
+His work focuses on empowering parents to become the "Lead Developers" of their child's care team, moving from crisis management to sustainable stability.
+
+He lives with his family, where he practices what he preaches: sleep is medicine, connection is currency, and normal is just a setting on the washing machine.

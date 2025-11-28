@@ -1,0 +1,104 @@
+# Understanding Overlaps and Combinations
+
+## Recap: The Building Blocks
+
+In the last three chapters, you met:
+
+- **Sarah** (Bipolar I alone): Mood cycling, racing thoughts, impulsive spending
+- **Marcus** (ADHD alone): Focus issues, forgetfulness, impulsivity
+- **Emma** (Autism alone): Sensory sensitivities, routine needs, social differences
+
+Each condition has clear, distinct features. But what happens when you **combine** them?
+
+## The Super-Additive Effect
+
+When you combine these conditions, **new symptoms emerge** that aren't present in any single condition alone. This is the "super-additive" effect.
+
+Think of it like mixing primary colors:
+
+- Blue = Bipolar (mood cycling)
+- Red = ADHD (focus/impulsivity)
+- Yellow = Autism (sensory/social)
+
+When you mix them, you don't just get "all three colors"—you get entirely NEW colors (purple, orange, green).
+
+## Autism + ADHD (AuDHD)
+
+### What Changes
+- **Sensory Overload + Poor Focus = "Chaos Brain":** Can't filter sensory input (autism) + can't sustain attention (ADHD) = constant overwhelm. Emma's cafeteria nightmare + Marcus's distract ibility = can't function in ANY busy environment.
+- **Masking Burnout:** Autistic people often "mask" (hide their traits). ADHD makes masking even harder (impulse control issues), leading to faster burnout.
+- **Executive Dysfunction x2:** Both conditions impair executive function (planning, organization). Together, it's exponentially worse. Marcus forgets his homework; Emma needs rigid routines. Combined? Can't create OR follow routines.
+
+### What DOESN'T Change
+- Still no mood cycling (that requires Bipolar)
+- No weeks of mania or depression
+
+### Example Teen: Kai (14, AuDHD)
+Kai has autism (sensory sensitive, prefers routines) AND ADHD (forgets everything, impulsive). He WANTS routines but can't stick to them. The cafeteria is overwhelming (autism), but he also can't remember to bring lunch (ADHD). He's constantly exhausted from trying to manage both.
+
+---
+
+## Autism + Bipolar
+
+### What Changes
+- **Manic Sensory Overload:** Mania makes you hypersensitive to sensory input. If you're already autistic (hypersensitive at baseline), mania turns the world into an unbearable assault. This fuels "manic rage."
+- **Communication Breakdown:** Autistic people with alexithymia (can't name emotions) struggle to tell doctors "I'm manic." They just act out.
+- **Special Interest → Obsession:** During mania, Emma's marine biology interest becomes an all-consuming obsession (no sleep, no eating, just researching orcas for 48 hours straight).
+
+### What DOESN'T Change
+- Still no chronic focus issues (that requires ADHD)
+- Emma can still hyperfocus when NOT in a mood episode
+
+### Example Teen: Alex (14, Autism + Bipolar II)
+This is Alex Miller from our "Three Families." When depressed, his autism is amplified—he can't mask, can't handle ANY sensory input. When hypomanic, he codes for 20 hours straight with racing thoughts, convinced he's building the next Facebook.
+
+---
+
+## ADHD + Bipolar
+
+### What Changes
+- **The Stimulant Trap:** ADHD meds (stimulants) can trigger mania. This is the #1 diagnostic challenge. Marcus's Adderall might work great—until it triggers a manic episode.
+- **Racing Thoughts x2:** ADHD already has a "busy mind." Mania adds **racing** thoughts. It's like a runaway train. Marcus thinks about 5 things at once; Sarah (manic) has thoughts moving so fast she can't finish sentences. Combined? Absolute chaos.
+- **Impulsivity → Recklessness:** ADHD impulsivity (Marcus interrupts friends) + manic poor judgment (Sarah maxes credit cards) = dangerous behavior (driving 100mph, unprotected sex with strangers).
+
+### What DOESN'T Change
+- Still no sensory sensitivities (that requires Autism)
+- Marcus + mania can still handle loud environments (unlike Emma)
+
+### Example Teen: Leo (16, ADHD + Bipolar I)
+This is Leo Rivera from our "Three Families." Vyvanse helped his ADHD—then triggered full mania. He stopped sleeping, punched walls, and had to be hospitalized.
+
+---
+
+## ALL THREE (AuDHD + Bipolar): The "Triple Diagnosis"
+
+### What Changes (The Perfect Storm)
+- **Sensory Overload (Autism) + Poor Sleep (Bipolar) + Impulsivity (ADHD) = Explosive Rage:** All three conditions feed into each other. Emma's sensory sensitivity + Sarah's sleep deprivation + Marcus's impulsivity = a teen who explodes at the slightest trigger.
+- **Masking Failure:** Can't mask autism (too impulsive from ADHD, too dysregulated from Bipolar) → burnout → depression.
+- **Medication Nightmare:** Need stimulants for ADHD, but they trigger mania. Need mood stabilizers for Bipolar, but they cause sensory side effects (autistic sensitivity). There's NO easy medication path.
+- **Diagnostic Chaos:** Doctors see autism, miss the mania. Or see mania, miss the sensory needs. Or see ADHD, miss both.
+
+### Example Teen: Sophie (13, Probable Triple Diagnosis)
+Sophie Chen (from our "Three Families") is autistic with sensory needs and special interests. She likely has emerging Bipolar (mood swings, self-harm during depressive phases). She also shows ADHD-like impulsivity. The three conditions interact to create an identity crisis—she's seeking online labels (DID/"alters") to explain the chaos in her head.
+
+---
+
+## The Diagnostic Challenge: Untangling the Threads
+
+When you see an explosive outburst in your teen, ask:
+
+- Is this a **manic rage** (Bipolar)? → Sustained, energizing, unprovoked
+- Is this an **autistic meltdown** (Autism)? → Reactive to sensory overload, exhausting
+- Is this **ADHD impulsivity** (ADHD)? → Quick escalation, quick recovery, triggered by frustration
+
+Or is it **all three at once**?
+
+That's the "Double Diagnosis" (or Triple Diagnosis).
+
+## Moving Forward
+
+Now that you understand:
+1. What each condition looks like alone (Sarah, Marcus, Emma)
+2. How they interact and change each other (this chapter)
+
+You're ready to see these patterns in **real families**. In the next chapter, you'll meet Alex, Leo, and Sophie—three teens living at these intersections.

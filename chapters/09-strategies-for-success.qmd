@@ -1,0 +1,194 @@
+# Strategies for Success
+
+## The Quarterback Model
+
+You are not just a parent. You are the **CEO** of a small, chaotic non-profit organization called "Your Child's Health."
+
+Your job is to:
+
+- Coordinate the care team (psychiatrist, therapist, school, pediatrician)
+- Track medications and side effects
+- Translate medical jargon for teachers and family
+- Advocate when systems fail
+
+This is **case management**. And you are now a professional.
+
+## Building the Care Team
+
+Your teen needs a team, not a single provider. Here's who should be on it:
+
+### The Core Team
+1. **Psychiatrist** (Medication management)
+2. **Therapist** (Weekly DBT/CBT for mood regulation, coping skills)
+3. **School Counselor or IEP Coordinator** (Academic accommodations)
+4. **Pediatrician** (Physical health, blood work, growth monitoring)
+
+### The Extended Team (If Needed)
+5. **Neuropsychologist** (Testing for ADHD/Autism if not yet diagnosed)
+6. **Occupational Therapist** (Sensory integration for autistic teens)
+7. **Social Worker** (Connecting to community resources, insurance navigation)
+8. **Crisis Team Contact** (Mobile crisis unit, hospital liaison)
+
+### The Coordinator: YOU
+
+**The Problem:** These providers don't talk to each other. The psychiatrist doesn't know what the therapist is seeing. The school doesn't know about the new medication.
+
+**The Solution:** **You** become the information hub.
+
+## Protocol: The Care Team Meeting Agenda
+
+**Frequency:** Quarterly (every 3 months), or after major changes (new med, hospitalization, IEP update)
+
+**Attendees:** Psychiatrist, therapist, school counselor, you, your teen (if appropriate)
+
+**Format:** 30-minute meeting (can be virtual)
+
+### Pre-Meeting Prep (What to Bring)
+- ☐ **Mood Chart** (30-day log showing sleep, mood, incidents)
+- ☐ **Medication List** (current doses, start dates, side effects)
+- ☐ **School Report** (grades, attendance, behavioral incidents)
+- ☐ **Questions/Concerns** (written list so you don't forget mid-meeting)
+
+### Meeting Agenda Template
+
+**1. Check-In (5 min)**
+- "How is [Teen] doing overall?"
+- Each provider gives 1-minute summary
+
+**2. Data Review (10 min)**
+- Share mood chart
+- Discuss patterns (e.g., "Mood dips every Monday morning—school-related?")
+- Review medication compliance and side effects
+
+**3. Problem-Solving (10 min)**
+- Identify biggest current challenge (sleep? school? rage episodes?)
+- Brainstorm adjustments (med change? therapy focus shift? school accommodation?)
+
+**4. Action Items (5 min)**
+- WHO will do WHAT by WHEN?
+   - Example: "Dr. Smith will increase Lamictal to 100mg by next week"
+   - Example: "School will implement 'break card' by Monday"
+   - Example: "Therapist will work on sleep hygiene for next 4 sessions"
+
+### Sample Questions to Ask
+- **To Psychiatrist:** "Should we add/adjust meds based on recent mood data?"
+- **To Therapist:** "What coping skills is [Teen] actually using at home?"
+- **To School:** "Can we add [specific accommodation] to the IEP?"
+- **To Everyone:** "Are we all on the same page about the crisis plan?"
+
+## Technology Tools: Outsourcing Your Brain
+
+You cannot remember everything. Use apps and systems.
+
+### Mood Tracking
+- **App:** Daylio, eMoods, or simple Google Sheet
+- **What to Track:** Sleep hours, mood (1-10 scale), incidents (rage, crying, self-harm)
+- **Frequency:** Daily (set phone reminder for 8 PM)
+- **Why:** Patterns emerge over weeks. You'll spot triggers psychiatrist would miss.
+
+### Medication Management
+- **App:** Medisafe, Round Health
+- **Features:** Reminders, refill alerts, side effect logs
+- **Why:** Teens forget. Parents forget. Apps don't.
+
+### School Communication
+- **System:** Shared Google Doc with school counselor
+- **Update:** Weekly (Fridays) - Brief summary of teen's week at home
+- **Why:** School sees half the picture. You see the other half. Share it.
+
+### Crisis Contacts (Phone + Paper)
+Create a **Crisis Card** (size of credit card, laminated, in wallet):
+
+![Crisis Card Template](images/crisis_card_template_1764303717469.png)
+
+**Give copies to:** School nurse, grandparents, babysitters, teen (to carry)
+
+## School Accommodations: The IEP Cheat Sheet
+
+Your teen's IEP should address **all three** conditions (Bipolar, ADHD, Autism). Most schools only address one. **Push back.**
+
+### Mood-Related Accommodations (Bipolar)
+- ☐ Flexible deadlines during documented mood episodes
+- ☐ Daily "mood check-in" with counselor (1-2 min, not punitive)
+- ☐ Excused absences for mental health crises/appointments
+- ☐ "Safe person" to check in with when dysregulated
+
+### Executive Function Support (ADHD)
+- ☐ Extended time on tests (1.5x)
+- ☐ Chunked assignments (break long projects into daily tasks)
+- ☐ Copies of notes or lecture recordings
+- ☐ Use of planner + weekly check-in with teacher
+
+### Sensory/Social Support (Autism)
+- ☐ "Break card" (leave class without explanation when overwhelmed)
+- ☐ Preferential seating (away from fluorescent lights, near exit)
+- ☐ Modified lunch (eat in quiet space if cafeteria is overwhelming)
+- ☐ Advance notice of schedule changes
+
+**For full IEP sample language, see Appendix C.**
+
+## Communication Protocols
+
+### Parent → Psychiatrist
+**When to Contact:**
+- Urgent (call/page): Suicidal ideation, violence, psychosis
+- Soon (call within 24h): New side effect, 3+ days no sleep
+- Routine (email/portal): Questions about dosing, refills
+
+**What to Include:**
+- Brief summary: "Leo hasn't slept in 3 days, very irritable, talking fast"
+- Current dose: "On 900mg Lithium, 100mg Lamictal"
+- Request: "Should we increase mood stabilizer or bring him in?"
+
+### Parent → School
+**Weekly Update Template (Email):**
+
+Subject: [Teen Name] Weekly Update - [Date]
+
+Hi [Counselor Name],
+
+Quick update on [Teen]:
+
+- **Mood:** Stable this week / Had depressive dip Tue-Thu / Hypomanic energy Mon-Wed
+- **Sleep:** Getting 7hrs average / Only 4hrs last 3 nights
+- **Medications:** No changes / Started new dose [X] on [date]
+- **Concerns:** None / Watch for [specific behavior]
+
+Let me know if you see anything concerning on your end. Thanks!
+
+### Parent → Extended Family (Boundaries)
+**Script:**
+
+"We appreciate your concern about [Teen]. We're working with a team of doctors and following their treatment plan. If you'd like to help, here's what would be most useful: [specific ask, e.g., 'Take sibling for afternoon once a week,' 'Don't comment on Teen's appearance/behavior']. If that doesn't work for you, we understand, but we won't be discussing the treatment plan further."
+
+## Self-Advocacy: Teaching Your Teen
+
+Eventually, your teen needs to manage their own care. Start now (age-appropriately).
+
+### Ages 13-14: Awareness
+- **Teach:** Names of medications, why they take them
+- **Practice:** "Can you tell Dr. Smith how you've been sleeping?"
+- **Goal:** Teen can describe symptoms to doctor (with you there)
+
+### Ages 15-16: Participation
+- **Teach:** Side effects to watch for, when to ask for help
+- **Practice:** Teen calls/texts you when feeling "off"
+- **Goal:** Teen actively participates in doctor visits (not just you talking)
+
+### Ages 17-18: Transition Prep
+- **Teach:** How to refill prescriptions, schedule appointments, use insurance
+- **Practice:** Teen makes one appointment on their own (you supervise)
+- **Goal:** Teen can manage care with minimal parent involvement (ready for college/adulthood)
+
+## The Takeaway
+
+Success in managing the "Double Diagnosis" requires:
+1. **A coordinated care team** (quarterly meetings, shared information)
+2. **Technology tools** (mood tracking, med reminders, crisis cards)
+3. **School advocacy** (IEPs that address ALL conditions)
+4. **Clear communication** (protocols for when/how to contact providers)
+5. **Self-advocacy training** (age-appropriate independence building)
+
+You are the Quarterback. The plays are complex.  The team doesn't always coordinate. But YOU keep the game moving forward.
+
+**And that makes all the difference.**

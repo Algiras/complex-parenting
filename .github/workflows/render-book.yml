@@ -59,18 +59,19 @@ jobs:
           SHA=$(git rev-parse --short HEAD)
           sed -i "s/git-sha: .*/git-sha: \"$SHA\"/" _quarto.yml
 
-      - name: Render Book (HTML for GitHub Pages)
+      - name: Render Book (HTML, PDF, EPUB)
         run: |
-          # cd books (removed)
           quarto render --to html
+          quarto render --to pdf
+          quarto render --to epub
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
         
-      - name: Upload HTML to Pages
+      - name: Upload Artifacts to Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: books/_output
+          path: _output
 
       - name: Deploy to GitHub Pages
         id: deployment

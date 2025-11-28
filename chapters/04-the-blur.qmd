@@ -1,0 +1,56 @@
+# The "Blur"
+
+## Diagnostic Overshadowing
+
+"Diagnostic Overshadowing" is a fancy medical term for "Tunnel Vision."
+Once a child has a diagnosis of Autism, *everything* they do is viewed through that lens. This is a well-documented phenomenon where symptoms of a co-occurring mental illness are misattributed to the developmental disability [@vanmeter2018].
+
+Research shows that up to 30% of youth with Bipolar Disorder also meet the criteria for Autism Spectrum Disorder [@joshi2014]. Yet, families often face years of delay before the second diagnosis is made.
+
+### Case Study: Alex's "Burnout"
+
+Alex Miller (14) has been Autistic his whole life. His parents know his rhythms: he needs quiet after school, he loves Minecraft, he hates tags on his shirts.
+But this winter, something changed.
+Alex stopped playing Minecraft. He stopped eating. He lay in bed for 18 hours a day, staring at the ceiling.
+"It's Autistic Burnout," the therapist said. "He masked too hard at school. We need to reduce demands."
+So they did. They let him stay home. They brought him food.
+But then, two weeks later, Alex didn't just "recover." He *ignited*.
+He stayed up for 48 hours straight. He decided he was going to learn Japanese overnight. He became irritable, snapping at his mom for "breathing too loud."
+"He's just dysregulated from the burnout recovery," the therapist said.
+**The Reality:** Alex was cycling. He was in a Bipolar II cycle of deep depression followed by hypomania. But because everyone was looking at "Autism," they missed the mood disorder for two years.
+
+## Rapid Cycling vs. Emotional Dysregulation
+
+Both ADHD and Bipolar involve "Mood Swings." But they are different shapes.
+
+### ADHD: Emotional Dysregulation (The Spike)
+- **The Shape:** Spiky.
+- **Trigger:** Reactive to the environment (e.g., losing a video game, being told "no").
+- **Duration:** Short. Mood shifts happen multiple times a day.
+- **Baseline:** Returns to baseline quickly once the trigger is gone.
+- **Example:** Leo throws a controller because he lost a game, screams, then 20 minutes later asks what's for dinner.
+
+### Bipolar: Rapid Cycling (The Wave)
+- **The Shape:** Waves.
+- **Trigger:** Often endogenous (internal). Can happen on a perfect day at Disney World.
+- **Duration:** Longer. Even "rapid cycling" usually involves days or weeks in a specific state.
+- **Baseline:** The baseline itself shifts. The "whole person" changes for a week.
+- **Example:** Alex wakes up sad. Nothing bad happens, but he stays sad for 10 days. Then, he wakes up "electric" and stays that way for 4 days.
+
+### Visualizing the Difference: Alex's 30-Day Timeline
+
+![Alex's Mood Cycle (30 Days)](images/blur_cycle_mood_chart_1764234786308.png)
+
+Compare this to an ADHD mood pattern (not shown), which would be dozens of tiny spikes within a single day, triggered by specific events (video game loss, criticism, etc.). Notice how Alex's Bipolar pattern has **sustained states** lasting days, not hours.
+
+
+## Protocol: The Timeline Reconstruction Tool
+
+To cut through the blur, you need data. You need to build a timeline.
+
+1.  **Map the "Baseline":** What was your child like at age 7? Age 10? Before the crisis?
+2.  **Mark the "Shift":** When did the *nature* of the meltdowns change? Was there a specific semester where grades dropped or sleep vanished?
+3.  **Overlay the Triggers:** Did the shift coincide with puberty? A new medication (SSRI/Stimulant)? A viral illness?
+4.  **Look for Periodicity:** Do the crises happen every Spring? Every October? (Seasonality is a hallmark of Bipolar).
+
+**Action Step:** Take a blank calendar. Mark the "High Energy" days in Red and the "Low Energy" days in Blue. Do not mark "Good/Bad" days (behavior). Mark *Energy*. If you see blocks of Red and Blue, you are likely looking at Bipolar, not just ADHD.

@@ -6,12 +6,45 @@ project:
     - "*.md"
 
 book:
-  title: "[New Book Title]"
-  author: "[Author Name]"
+  title: "Complex Parenting: Navigating the 'Double Diagnosis'"
+  subtitle: "A Guide to Raising Teens with Bipolar and Autism/ADHD"
+  author: "Algimantas K."
+  date: "today"
+  cover-image: cover.png
   chapters:
     - index.qmd
-    - chapters/01-introduction.qmd
-  date: "today"
+    - chapters/00-front-matter.qmd
+    - part: "Part I: The Personas"
+      chapters:
+      - chapters/01c-sarahs-story-bipolar.qmd
+      - chapters/01d-marcus-story-adhd.qmd
+      - chapters/01e-emmas-story-autism.qmd
+    - part: "Part II: The Families"
+      chapters:
+      - chapters/01-comorbidity-gap.qmd
+      - chapters/01b-conditions-individually.qmd
+      - chapters/02-bipolar-teen-brain.qmd
+      - chapters/03-illness-vs-identity.qmd
+      - chapters/04-the-blur.qmd
+      - chapters/05-medical-traffic-jams.qmd
+      - chapters/06-managing-the-rage.qmd
+    - part: "Part III: The Strategies"
+      chapters:
+      - chapters/07-sleep-is-medicine.qmd
+      - chapters/08-the-family-mobile.qmd
+      - chapters/09-strategies-for-success.qmd
+      - chapters/10-stories-from-frontlines.qmd
+      - chapters/11-conclusion.qmd
+    - part: "Appendices"
+      chapters:
+      - chapters/12-appendix-a-resources.qmd
+      - chapters/13-appendix-b-glossary.qmd
+      - chapters/14-appendix-c-iep-samples.qmd
+      - chapters/15-appendix-d-adults.qmd
+      - chapters/16-about-author.qmd
+      - chapters/17-references.qmd
+
+bibliography: references.bib
 
 format:
   html:
@@ -20,7 +53,20 @@ format:
     toc: true
     toc-depth: 3
     smooth-scroll: true
+    number-sections: false
   pdf:
     documentclass: scrreprt
     toc: true
     toc-depth: 3
+    number-sections: false
+    colorlinks: true
+    geometry:
+      - top=25mm
+      - left=25mm
+      - right=25mm
+      - bottom=25mm
+    linestretch: 1.25
+  epub:
+    toc: true
+    toc-depth: 3
+    number-sections: false

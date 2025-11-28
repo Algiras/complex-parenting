@@ -1,0 +1,147 @@
+# Sample IEP Language & Accommodations
+
+## Understanding IEPs for the "Double Diagnosis"
+
+Most schools understand **either** Autism **or** Bipolar, but rarely both. This appendix provides specific language you can use to ensure your child's IEP addresses the unique challenges of AuDHD + Bipolar.
+
+## Present Levels of Academic Achievement and Functional Performance (PLAAFP)
+
+### Sample Language: Comprehensive Description
+
+> "[Student Name] is a [age]-year-old student diagnosed with Autism Spectrum Disorder (Level 1), ADHD, and Bipolar Disorder. [Student] experiences a combination of challenges related to both neurodevelopmental differences (autism, ADHD) and a mood disorder (Bipolar), which interact to create unique educational barriers.
+> 
+> **Autism-Related Needs:** [Student] experiences sensory sensitivities to fluorescent lights, loud noises, and unexpected changes in routine. [Student] benefits from advance notice of transitions and visual schedules.
+> 
+> **ADHD-Related Needs:** [Student] has difficulty sustaining attention during lectures and organizing multi-step assignments. Executive function support is required.
+> 
+> **Bipolar-Related Needs:** [Student] experiences mood cycling that impacts attendance, energy levels, and emotional regulation. During depressive episodes, [Student] may struggle to get out of bed or complete assignments. During hypomanic/manic episodes, [Student] may exhibit increased irritability, impulsivity, and difficulty sleeping, which affects concentration and behavior the following day.
+> 
+> **Interactive Effect:** The combination of these conditions creates a 'super-additive' effect. For example, sensory overload (autism) combined with sleep deprivation (bipolar) can trigger explosive outbursts that look like 'defiance' but are actually medical symptoms."
+
+## Specific Accommodations for AuDHD + Bipolar
+
+### Sensory Accommodations
+- ☐ Preferential seating away from fluorescent lights or near a window with natural light
+- ☐ Permission to wear noise-canceling headphones or earplugs during independent work
+- ☐ Access to a "sensory break" space (counselor's office, library quiet room) without penalty
+- ☐ Use of fidget tools (stress balls, fidget spinners) during class
+- ☐ Permission to leave class 2 minutes early to avoid hallway crowding during transitions
+
+### Mood-Related Accommodations
+- **☐ "Mood Check-In" at start of day:** Student meets briefly with counselor or designated staff to assess energy/mood level for the day. This helps staff understand behavior context (e.g., "Today is a low-energy day due to depression; expect low participation").
+- **☐ Flexible Deadlines:** Extensions on assignments during documented mood episodes (coordinated with psychiatrist if needed for verification).
+- **☐ Modified Attendance Policy:** Excused absences for mental health crises or psychiatric appointments. Student can make up work without penalty.
+- **☐ Daily "Safe Person" Check-in:** Student has one designated staff member to check in with daily (not just when in crisis).
+- **☐ Reduced Course Load:** Permission to take 4 classes instead of 6 if full load exacerbates mood instability.
+
+### Crisis/De-Escalation Accommodations
+- **☐ "Pass to Counselor" Card:** Student can self-initiate removal from classroom when feeling overwhelmed, without having to explain in the moment.
+- **☐ Non-Punitive Approach to Outbursts:** Behavioral incidents related to documented mood episodes or sensory overload are addressed via support plan, not detention/suspension.
+- **☐ De-escalation Room:** Access to a designated quiet space with dim lighting and minimal stimulation for recovery.
+- **☐ Advance Notice of Sub Days:** When possible, notify student/parent if a substitute teacher will be present (routine changes trigger anxiety).
+
+### Executive Function Supports
+- ☐ Copies of teacher notes or access to lecture recordings
+- ☐ Checklist-based assignment breakdowns (multi-step projects broken into daily tasks)
+- ☐ Use of a planner or digital app (with staff check-in to ensure use)
+- ☐ Extended time on tests (1.5x or 2x standard time)
+- ☐ Separate, quiet test environment
+
+### Sleep-Related Accommodations
+- **☐ Modified Start Time:** Permission to arrive 1-2 hours late if experiencing early-morning depression or post-mania exhaustion.
+- **☐ No Homework on "Crash" Days:** During documented depressive episodes, homework is reduced or waived.
+- **☐ No Penalties for Sleep-Related Absences:** Sleep disruption due to mania is treated as a medical issue, not truancy.
+
+##goals (Annual Goals)
+
+### Sample Goal 1: Emotional Regulation
+> "By [date], [Student] will identify early warning signs of mood escalation (using a mood scale of 1-10) and independently request a break or use a coping strategy (deep breathing, counselor visit) in 4 out of 5 observed instances, as measured by teacher/counselor report and self-monitoring log."
+
+### Sample Goal 2: Academic Engagement During Depression
+> "By [date], [Student] will complete 70% of assigned work during documented depressive episodes, utilizing modified assignment formats (e.g., verbal responses instead of written, reduced length) as measured by grade tracking and teacher report."
+
+### Sample Goal 3: Communication of Needs
+> "By [date], [Student] will communicate sensory or emotional distress to a staff member using visual cues (e.g., red/yellow/green card system) or verbal request in 8 out of 10 situations, as measured by staff observation."
+
+## Behavioral Intervention Plan (BIP) Language
+
+### Trigger Identification
+> "School-based triggers for [Student]'s behavioral escalation include: (1) sensory overload (loud bells, crowded hallways), (2) unexpected schedule changes, (3) sleep deprivation due to bipolar cycling, and (4) peer conflict during heightened irritability (manic phases)."
+
+### Replacement Behaviors
+> "Instead of yelling or leaving class without permission, [Student] will: (1) use a 'break card' to request removal to the counselor's office, (2) use noise-canceling headphones to reduce sensory input, or (3) communicate mood state using a visual scale (green = okay, yellow = struggling, red = crisis)."
+
+### Non-Punitive Consequences
+> "When [Student] exhibits behaviors related to documented autism, ADHD, or bipolar symptoms (e.g., sensory meltdown, mood-driven outburst), the response will be de-escalation and support, not punitive discipline. Suspension is removed as an option for behaviors directly related to disability."
+
+## How to Request an IEP Meeting (The Strategy)
+
+Don't just send a generic letter. You need to build a case. Your request needs three key components to trigger the school's legal obligation to act.
+
+### Step 1: Establish the "New Information"
+Schools are busy. They generally only reopen IEPs if there is a significant change in the student's needs. Your "New Information" is the Bipolar diagnosis.
+*   **The Strategy:** Explicitly state that this is a *new* medical finding that the current IEP does not account for.
+
+### Step 2: Connect Diagnosis to Education
+A medical diagnosis alone isn't enough for an IEP; it must have an "educational impact." You must explain how the mood cycling hurts their ability to learn or attend school.
+*   **The Strategy:** Link the symptoms (mania/depression) to school outcomes (attendance, work completion, safety).
+
+### Step 3: The Specific Ask
+Don't just ask to "talk." Ask for specific actions. This puts the school on a timeline (usually 30 days, depending on your state).
+*   **The Strategy:** List exactly what you want to change (Present Levels, Accommodations, Behavior Plan).
+
+### The Template
+Use this script, but customize the bullet points to match your child's specific struggles this month.
+
+::: {.callout-note icon=false appearance="simple"}
+
+[Your Name]  
+[Address]  
+[Email]  
+[Phone]
+
+[Date]
+
+[Principal's Name]  
+[School Name]  
+[Address]
+
+**Re: Request for IEP Meeting - [Student Name]**
+
+Dear [Principal/IEP Coordinator],
+
+I am writing to request an IEP meeting for my child, [Student Name], who is currently in [grade] and has an existing IEP under the category of [Autism/Other Health Impairment].
+
+Since the last IEP meeting, [Student] has been diagnosed with Bipolar Disorder, which significantly impacts [his/her/their] educational performance. Specifically, [Student] experiences mood cycling that affects attendance, concentration, and emotional regulation. These symptoms interact with [Student]'s existing autism and ADHD diagnoses, creating unique challenges that are not currently addressed in the IEP.
+
+I am requesting that we convene an IEP meeting within the next 30 days to:
+
+1. Update the Present Levels section to reflect the bipolar diagnosis and its impact on learning.
+2. Add accommodations specific to mood cycling (e.g., flexible deadlines, mood check-ins, modified attendance policy).
+3. Revise behavioral supports to ensure non-punitive responses to mood-related behaviors.
+
+I will bring documentation from [Student]'s psychiatrist to support this request.
+
+Thank you for your prompt attention to this matter. I look forward to collaborating with the IEP team to ensure [Student]'s success.
+
+Sincerely,
+
+[Your Signature]  
+[Your Name]
+:::
+
+## FAQs
+
+**Q: Can a school refuse accommodations for bipolar disorder?**
+A: No, if bipolar disorder impacts educational performance, the student is entitled to accommodations under IDEA (Individuals with Disabilities Education Act) or Section 504.
+
+**Q: What if the school says "mood swings are behavioral, not a disability"?**
+A: This is incorrect. Bipolar disorder is recognized under "Other Health Impairment" (OHI) in IDEA. Provide a letter from the psychiatrist documenting the diagnosis.
+
+**Q: Can my child have both an IEP (for autism) and a 504 Plan (for bipolar)?**
+A: You can have one or the other, not both. If your child has an IEP, all conditions (autism, ADHD, bipolar) should be addressed within that single IEP.
+
+## Resources
+- **Wrightslaw** ([wrightslaw.com](https://www.wrightslaw.com)): Special education law and advocacy
+- **Understood.org** ([understood.org](https://www.understood.org)): IEP templates and guides
+- **PACER Center** ([pacer.org](https://www.pacer.org)): Parent advocacy resources

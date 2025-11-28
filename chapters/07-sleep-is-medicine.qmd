@@ -1,0 +1,166 @@
+# Sleep is Medicine
+
+## The Double Whammy
+
+- **ADHD:** Circadian Rhythm Delay. Their brain doesn't make melatonin until 2 AM.
+- **Bipolar:** Sleep disruption is the #1 trigger for mania.
+- **Result:** A teen who *can't* fall asleep, and whose lack of sleep triggers a manic episode where they *don't need* sleep.
+
+### The Broken Clock: Circadian Rhythm in AuDHD + Bipolar
+
+![Sleep Windows: The Night Sky Clock](images/sleep_night_sky_1764272703261.png)
+
+Notice how the AuDHD+Bipolar teen's sleep window shrinks to 2 hours during mania. This is not "just" ADHD—this is a medical emergency.
+
+
+### Case Study: Alex's All-Nighter
+Alex Miller (14) is coding. It's 3 AM.
+"Alex, go to bed," his mom says.
+"I can't. I'm in the flow. I'll sleep later."
+
+By Thursday, Alex hasn't slept in 56 hours. He's giggly, then irritable, then convinced he's "solving climate change with Python."
+
+His mom, Sarah, calls the psychiatrist. "Is this mania?"
+
+"How long has he been awake?"
+
+"Three days."
+
+"Yes. This is mania. Bring him in."
+
+## The Science: Why Sleep Matters More for Bipolar Brains
+
+### Normal Sleep Cycle
+1. **Melatonin rises** → Brain signals "time for bed"
+2. **Body temperature drops** → You get sleepy
+3. **Deep sleep** → Brain clears waste, consolidates memory
+4. **REM sleep** → Emotional regulation processing
+
+### Bipolar + ADHD Sleep Disruption
+1. **Melatonin doesn't rise** (ADHD circadian delay)
+2. **Brain stays activated** (racing thoughts from mania)
+3. **No deep sleep** → Emotional dysregulation worsens
+4. **No REM** → Mood destabilizes further
+
+**Result:** A vicious downward spiral. No sleep → mania → less sleep → worse mania.
+
+## Protocol: The Dark Therapy Schedule
+
+**Dark Therapy** = Controlled light exposure to force circadian rhythm reset. Research shows that blocking blue light in the evening can stop mania in its tracks. A randomized controlled trial found that patients using blue-blocking glasses saw a significant reduction in manic symptoms within just 3 days compared to placebo [@henriksen2016].
+
+- **The Mechanism:** Blue light suppresses melatonin. By blocking it, we trick the brain into thinking it's night.
+
+### The Why
+Blue light (from screens, overhead lights) suppresses melatonin. For teens with ADHD, this delay is WORSE. For teens with bipolar, it can trigger mania.
+
+**Solution:** Eliminate blue light 3 hours before target sleep time.
+
+### Hour-by-Hour Schedule (For 10 PM Bedtime)
+
+#### 7:00 PM: BEGIN DARK THERAPY
+- ☐ Put on **blue light blocking glasses** (amber/orange lenses)
+   - **Brands:** Swanwick, TrueDark, Uvex (cheap on Amazon)
+   - Teen wears these until bedtime
+- ☐ Dim all overhead lights (use lamps, salt lamps, or red bulbs)
+- ☐ **No bright screens** (TV, computer, phone) - If absolutely necessary, use with blue light filter apps (f.lux, Night Shift)
+
+#### 8:00 PM: WIND-DOWN ACTIVITIES
+- ☐ **Allowed:** Reading (physical book,  Kindle with warm light), listening to music/podcasts, drawing, puzzles
+- ☐ **Not Allowed:** Homework with bright desk lamp, video games, TikTok, arguments with parents
+
+#### 9:00 PM: MELATONIN DOSE
+- ☐ Give **melatonin** (dose below)
+- ☐ Take with small snack (melatonin absorbs better with food)
+- ☐ **Timing matters:** Melatonin takes 30-60 min to kick in
+
+#### 9:30 PM: SLEEP HYGIENE
+- ☐ Shower (warm, not hot - hot raises body temp and delays sleep)
+- ☐ Change into pajamas
+- ☐ Brush teeth
+- ☐ **Room prep:** Blackout curtains closed, white noise machine on, temp 65-68°F
+
+#### 10:00 PM: LIGHTS OUT
+- ☐ All screens OFF and OUT of bedroom (charge phone in kitchen)
+- ☐ Only red nightlight allowed (if needed)
+- ☐ Parent checks in: "Goodnight, I love you"
+- ☐ **Rule:** Teen stays in bed, even if not asleep yet
+
+#### 10:30 PM: IF STILL AWAKE
+- ☐ **Don't panic.** Lying quietly in bed = restful, even if  not asleep
+- ☐ **Do NOT:** Get up, turn on lights, check phone
+- ☐ **Optional:** Guided sleep meditation (Headspace, Calm app - but phone stays on dresser, not in bed)
+
+### Melatonin Dosing for Teens
+**Start Low:** 0.5-1 mg (Yes, this is much lower than the 5-10mg bottles at the store)
+**Timing:** 90 minutes before target sleep time
+**Max Dose:** 3-5 mg (higher doses can cause grogginess, nightmares)
+**Important:** Melatonin is NOT a sedative. It signals "time for bed," but doesn't knock you out.
+
+**DO NOT:** Use melatonin gummies (inconsistent dosing, too much sugar)
+**DO:** Use liquid or sublingual tablets for precise dosing
+
+### What If Dark Therapy Isn't Enough?
+
+If after 2 weeks of strict dark therapy, teen is still:
+
+- Not falling asleep before midnight
+- Waking up multiple times
+- Getting <6 hours total sleep
+
+**Next Steps:**
+1. **Medication Adjustment:** Talk to psychiatrist about:
+   - Trazodone (50-100mg) - sedating antidepressant
+   - Seroquel (25-50mg) - atypical antipsychotic, very sedating
+   - Clonidine (0.1mg) - blood pressure med, sedating side effect
+2. **Sleep Study:** Rule out sleep apnea (common in teens with bipolar)
+
+## Troubleshooting Common Sleep Problems
+
+### "My teen says they're not tired"
+**Response:** "Your brain isn't making melatonin yet. That's the ADHD. We're using dark therapy to fix that. Put the glasses on anyway."
+
+### "They sneak their phone at night"
+**Solution:**
+- Charge phone in parent bedroom (non-negotiable)
+- Use parental controls to disable all apps except phone/text after 10 PM
+- If still an issue: Flip phone for sleep hours (yes, seriously)
+
+### "They fall asleep at 10 PM but wake up at 2 AM"
+**Possible Causes:**
+- **Medication wearing off:** Talk to psychiatrist about extended-release versions
+- **Anxiety:** Waking with racing thoughts? May need evening dose of anti-anxiety med
+- **Sleep apnea:** Snoring? Gasping? Needs sleep study
+
+### "Weekend sleep schedule destroys our progress"
+**The Problem:** "Social Jet Lag" - sleeping till noon on Saturday undoes weekday progress
+**The Rule:** Weekends can shift 1 hour MAXIMUM (If weekday bedtime is 10 PM, weekend is 11 PM max)
+**Enforcement:** Parents wake teen by 9 AM even on weekends (yes, they will hate you)
+
+## Alex's Sleep Victory
+
+After 4 weeks of dark therapy:
+
+- Alex now falls asleep by 10:30 PM (was 2 AM)
+- Getting 7-8 hours of sleep (was 4-5)
+- Mood stabilized (no hypomanic episodes)
+- Grades improved (can focus in class)
+
+Sarah says: "I didn't believe it would work. It seemed too simple. But it was the single most effective intervention we did."
+
+## The Takeaway
+
+**Sleep is not optional.** It is medication. It is mood regulation. It is crisis prevention.
+
+For teens with Bipolar + AuDHD:
+
+- **7-9 hours of sleep** = baseline stability
+- **<6 hours for 3+ days** = mania risk
+- **Dark Therapy** = most effective non-medication intervention
+
+**The Dark Therapy Schedule (Summary):**
+1. **7 PM:** Blue light glasses on, dim lights
+2. **9 PM:** Melatonin dose (0.5-3mg)
+3. **10 PM:** Lights out, phone out of room
+4. **Consistency:** Every single night, including weekends
+
+It's not glamorous. It's not high-tech. But **it works.**

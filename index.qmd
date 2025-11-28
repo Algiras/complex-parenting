@@ -1,3 +1,47 @@
-# Home Page
+# Preface {.unnumbered}
 
-Welcome to the new book. This is a placeholder home page. Replace with actual content.
+![Complex Parenting](cover.png){width=50% fig-align="center"}
+
+## Why This Book Exists
+
+If you are reading this, you are likely drowning.
+
+You have a teenager who doesn't fit in any box. The autism specialist says "they're just autistic," but the rage is too big for that. The psychiatrist says "they're bipolar," but the sensory meltdowns don't fit the DSM. The school says "they're defiant," and you feel like screaming.
+
+This book exists because the medical system is built on silos, and your child lives at the intersection.
+
+## Who This Book Is For
+
+This book is for parents of teens (ages 12-18) who have the "Double Diagnosis":
+*   **Bipolar Disorder** (I, II, or NOS)
+*   **Neurodivergence** (Autism, ADHD, or AuDHD)
+
+This combination is not rare. In fact, the overlap is massive. But almost no resources exist for it.
+
+## How to Use This Book
+
+*   **Part I (Chapters 1-2):** Understand the science and the problem.
+*   **Part II (Chapters 3-5):** Navigate the diagnosis and medication maze.
+*   **Part III (Chapters 6-8):** Survive the daily trenches.
+*   **Part IV (Chapters 9-10):** Build systems that work.
+
+Each chapter includes **Protocols**—actionable checklists you can use immediately.
+
+## A Note on the Families
+
+The Millers, Riveras, and Chens are composites. They are built from thousands of real stories, clinical case studies, and parent forums. They are not real people, but if you recognize your family in them, that is by design.
+
+## Let's Begin
+
+You are not alone. Let's walk through the fire together.
+ 
+::: {.callout-note appearance="simple" icon=false}
+## ☕ Support the Work
+This book is an open-source project. If it helps you or your family, please consider supporting its continued development:  
+[**Buy Me a Coffee**](https://www.buymeacoffee.com/Algiras)
+:::
+
+::: {.callout-tip appearance="simple" icon=false}
+## License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+:::

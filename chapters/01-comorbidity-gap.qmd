@@ -1,0 +1,92 @@
+# The Three Families
+
+*Now that you understand what Bipolar, ADHD, and Autism look like individually, let's see them in real families. Meet the Millers, Riveras, and Chens—three families living at the intersection.*
+
+## The Silo Problem
+
+The medical system is built on silos. There's the "Bipolar clinic," the "Autism center," and the "ADHD specialist." But your child doesn't live in a silo. They live at the **intersection**.
+
+Meet three families who know this all too well.
+
+## The Millers: Alex (14, Bipolar II + Autism)
+
+Alex Miller is brilliant. He taught himself Python at age 10. He can code for 12 hours straight without eating or sleeping—but only on projects that interest him. School assignments? He can't even start.
+
+At 14, Alex stopped going to school. His parents, Sarah and David, were baffled. The school called it "school refusal." The therapist called it "Autistic Burnout." But Alex was also sobbing for hours, then suddenly staying up all night coding in what seemed like a "high."
+
+**The Comorbidity:** Alex has *Bipolar II* (hypomanic episodes + depression) layered on top of *Autism* (sensory sensitivities, social exhaustion, need for routine).
+
+When Alex is **depressed**, his baseline autistic traits amplify. He can't mask. He can't handle any sensory input. Showering feels impossible.
+
+When Alex is **hypomanic**, his special interests become obsessions. He codes with racing thoughts, convinced he's building the next Facebook. But he's also irritable and snaps at his parents.
+
+The challenge? The psychiatrist sees "just autism." The autism specialist sees "just anxiety." Nobody sees the **mood cycling**.
+
+## The Riveras: Leo (16, Bipolar I + ADHD)
+
+Leo Rivera is charismatic. He's the class clown, always cracking jokes, always moving. But he forgets his homework, loses his keys, and interrupts everyone.
+
+At age 14, Leo was diagnosed with ADHD and put on Vyvanse. It worked—for three months. Then he stopped sleeping. He started projects at 3 AM (tearing apart the garage to "build a workshop"). He picked fights with his dad, Mateo, and punched a hole in the wall.
+
+The doctor said, "Let's increase the Vyvanse." Bad idea.
+
+**The Comorbidity:** Leo has *Bipolar I* (full manic episodes) layered on top of *ADHD* (impulsivity, hyperactivity, focus issues).
+
+When Leo is **stable**, his ADHD looks like typical ADHD: forgetful, fidgety, impulsive.
+
+When Leo is **manic**, the ADHD impulsivity becomes *dangerous recklessness*. He drives 100 mph. He picks fights. He doesn't sleep for days.
+
+The challenge? The ADHD meds (stimulants) **triggered** the mania. It took 2 hospitalizations before anyone realized Leo had Bipolar disorder.
+
+## The Chens: Sophie (13, Autism + Identity Crisis + Probable Bipolar)
+
+Sophie Chen was diagnosed with Autism at age 11. She has deep special interests (marine biology, linguistics), sensory sensitivities, and a preference for routine. But at 13, everything changed.
+
+Sophie discovered TikTok communities for "systems" (Dissociative Identity Disorder). She started claiming she had 15 "alters." She refused to answer to her name, insisting on being called "Ash." She was cutting herself.
+
+Her mom, Wei, was terrified. Was this *real* DID? Was it autism? Was it teenage identity exploration? Or was it something else?
+
+**The Comorbidity:** Sophie has *Autism* (confirmed) + an *identity crisis* (teens online claiming mental health labels as identity) + *emerging Bipolar symptoms* (mood swings, self-harm during depressive phases).
+
+The challenge? Sophie refuses medication, calling it "chemical lobotomy." Online communities tell her she's being "silenced" by neurotypical parents. Meanwhile, Wei doesn't know if the "alters" are a coping mechanism, psychosis, or teenage experimentation.
+
+## The Stats: You Are Not Alone
+
+If you feel like you are navigating a minefield, it's because you are. The overlap between these conditions is massive, yet rarely discussed in standard parenting books.
+
+- **The ADHD Connection:** Up to **70%** of individuals with Bipolar Disorder also have ADHD.
+- **The Autism Link:** Autistic individuals are **2-3 times more likely** to develop Bipolar Disorder than the general population.
+- **The "Double Whammy":** When you combine the *emotional dysregulation* of ADHD, the *sensory sensitivity* of Autism, and the *mood cycling* of Bipolar, you get a "super-additive" effect. The highs are higher, the lows are lower, and the fuse is much, much shorter.
+
+### Comorbidity Rates: The Hidden Overlap
+
+The overlap between these three conditions is not just additive—it's *multiplicative*. When you have all three, each condition amplifies the others.
+
+![The Triple Overlap: Bipolar, ADHD, and Autism Spectrum Disorder](images/triple_overlap_venn_1764232937371.png)
+
+**What This Means:**
+- **70% of people with Bipolar** also have ADHD (not just "some focus issues").
+- **5-8% of autistic individuals** develop Bipolar (3-6x the general population rate).
+- **9.4%** of those with both ADHD and Autism also have Bipolar—this is the "Triple Diagnosis."
+
+*This diagram shows why your child doesn't fit in any single box. They live at the intersection.*
+
+
+## Protocol: The "Whole Child" Assessment Checklist
+
+When you walk into a doctor's office, you cannot rely on them to ask the right questions. You must bring the "Whole Child" into the room. Use this checklist to ensure every specialist sees the full picture.
+
+**For the Psychiatrist (Bipolar Focus):**
+- [ ] Has there been a sustained change in mood lasting 4+ days (not just a "bad day")?
+- [ ] Has sleep decreased dramatically without fatigue?
+- [ ] Is there grandiosity or reckless behavior?
+
+**For the Developmental Pediatrician (Autism Focus):**
+- [ ] Are there sensory sensitivities (lights, sounds, textures)?
+- [ ] Is there a need for routine/sameness?
+- [ ] Are social interactions exhausting (even if they're "good at masking")?
+
+**For the ADHD Specialist:**
+- [ ] Is focus an issue even when NOT in a mood episode?
+- [ ] Is there chronic forgetfulness, losing things, disorganization?
+- [ ] Is impulsivity present during stable periods?

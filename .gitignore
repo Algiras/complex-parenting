@@ -13,7 +13,10 @@ _freeze/
 
 # Audiobook outputs
 audiobook/output/
+audiobook_output/
+audiobook/models/
 *.mp3
+*.wav
 audiobook_script.txt
 render_log.txt
 
@@ -29,6 +32,7 @@ __pycache__/
 .pytest_cache/
 .coverage
 htmlcov/
+node_modules/
 
 # LaTeX
 *.aux
