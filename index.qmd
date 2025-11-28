@@ -13,6 +13,7 @@ This book exists because the medical system is built on silos, and your child li
 ## Who This Book Is For
 
 This book is for parents of teens (ages 12-18) who have the "Double Diagnosis":
+
 *   **Bipolar Disorder** (I, II, or NOS)
 *   **Neurodivergence** (Autism, ADHD, or AuDHD)
 
@@ -34,14 +35,12 @@ The Millers, Riveras, and Chens are composites. They are built from thousands of
 ## Let's Begin
 
 You are not alone. Let's walk through the fire together.
- 
-::: {.callout-note appearance="simple" icon=false}
-## ☕ Support the Work
+
+### ☕ Support the Work
+
 This book is an open-source project. If it helps you or your family, please consider supporting its continued development:  
 [**Buy Me a Coffee**](https://www.buymeacoffee.com/Algiras)
-:::
 
-::: {.callout-tip appearance="simple" icon=false}
-## License
+### License
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-:::
