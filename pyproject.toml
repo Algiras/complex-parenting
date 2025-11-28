@@ -21,8 +21,7 @@ scan-chars = "scripts.scan_chars:main"
 
 # Audiobook scripts
 generate-audiobook = "audiobook.scripts.generate_audiobook:main"
-prepare-audiobook = "audiobook.scripts.prepare_audiobook:main"
-stitch-audio = "audiobook.scripts.stitch_audio:main"
+generate-kokoro = "audiobook.scripts.generate_local_kokoro:main"
 
 [build-system]
 requires = ["setuptools>=61.0"]
@@ -53,6 +52,9 @@ exclude = [
     ".coverage",
     "htmlcov",
     "*.egg-info",
+    "audiobook/cache",
+    "audiobook/OpenVoice",
+    "audiobook/MeloTTS",
 ]
 
 [tool.ruff.lint]

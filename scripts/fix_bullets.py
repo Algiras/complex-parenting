@@ -24,21 +24,22 @@ all_qmd_files = list(chapter_dir.glob('*.qmd'))
 fixed_count = 0
 
 for filepath in all_qmd_files:
-    with open(filepath, 'r', encoding='utf-8') as f:
+    with open(filepath, encoding='utf-8') as f:
         content = f.read()
-    
+
     # Count matches before replacing
     matches = PATTERN.findall(content)
-    
+
     if matches:
         # Replace pattern
         new_content = PATTERN.sub(REPLACEMENT, content)
-        
+
         # Write back
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(new_content)
-        
+
         print(f"✓ Fixed {len(matches)} instances in {filepath.name}")
         fixed_count += len(matches)
 
-print(f"\n✅ Total: Fixed {fixed_count} bullet points across {len([f for f in all_qmd_files if PATTERN.search(open(f).read())])} files")
+files_affected = sum(1 for f in all_qmd_files if PATTERN.search(f.read_text()))
+print(f"\n✅ Total: Fixed {fixed_count} bullet points across {files_affected} files")

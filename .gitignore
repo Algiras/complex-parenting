@@ -14,7 +14,12 @@ _freeze/
 # Audiobook outputs
 audiobook/output/
 audiobook_output/
+audiobook_output_emotional/
+audiobook_output_emotional_test/
 audiobook/models/
+audiobook/cache/
+audiobook/OpenVoice/
+audiobook/MeloTTS/
 *.mp3
 *.wav
 audiobook_script.txt
