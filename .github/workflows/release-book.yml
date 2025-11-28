@@ -51,7 +51,6 @@ jobs:
 
       - name: Render Book (PDF and EPUB)
         run: |
-          cd books
           quarto render
           echo "Book rendering complete"
           # Verify both files were created
@@ -75,12 +74,12 @@ jobs:
 
       - name: List generated files
         run: |
-          echo "Contents of books/_output:"
-          ls -lah books/_output/
+          echo "Contents of _output:"
+          ls -lah _output/
           echo "PDF files:"
-          find books/_output -name "*.pdf" -type f
+          find _output -name "*.pdf" -type f
           echo "EPUB files:"
-          find books/_output -name "*.epub" -type f
+          find _output -name "*.epub" -type f
 
       - name: Create Git Tag
         if: github.event_name == 'workflow_dispatch'
@@ -100,8 +99,8 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            books/_output/*.pdf
-            books/_output/*.epub
+            _output/*.pdf
+            _output/*.epub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -110,7 +109,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            books/_output/*.pdf
-            books/_output/*.epub
+            _output/*.pdf
+            _output/*.epub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
