@@ -1,7 +1,5 @@
 # Preface {.unnumbered}
 
-![Complex Parenting](cover.png){width=50% fig-align="center"}
-
 ## Why This Book Exists
 
 If you are reading this, you are likely drowning.
